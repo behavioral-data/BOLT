@@ -1,15 +1,15 @@
 # BOLT
 
-This repository contains the code and dataset for our [paper](https://arxiv.org/abs/2401.00820) on behavioral assessment of LLM therapists.
+This repository contains the code for our [paper](https://arxiv.org/abs/2401.00820) on behavioral assessment of LLM therapists.
 
 
-If this code or dataset helps you in your research, please cite the following publication:
+If this code helps you in your research, please cite the following publication:
 ```bash
 @inproceedings{chiu2024bolt,
     title={A Computational Framework for Behavioral Assessment of LLM Therapists},
     author={Chiu, Yu Ying and Sharma, Ashish and Lin, Inna Wanyin and Althoff, Tim},
-	journal={arXiv preprint arXiv:2401.00820},
-	year={2024}
+    journal={arXiv preprint arXiv:2401.00820},
+    year={2024}
 }
 ```
 
