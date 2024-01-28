@@ -25,9 +25,16 @@ The emergence of ChatGPT and other large language models (LLMs) has greatly incr
 
 ### 1. Prerequisites
 
-Our code can be compiled on Python 3.9+ environments. First, create a new environment and install the required packages:
+Our code can be compiled on Python 3.9+ environments. First, clone the repository:
+```
+git clone https://github.com/behavioral-data/BOLT.git
+cd BOLT
+```
+
+Next, create a new environment and install the required packages:
 ```
 conda create -n bolt python=3.9
+conda activate bolt
 pip install -r requirements
 ```
 
