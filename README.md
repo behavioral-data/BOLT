@@ -27,18 +27,18 @@ The emergence of ChatGPT and other large language models (LLMs) has greatly incr
 
 Our code can be compiled on Python 3.9+ environments. First, create a new environment and install the required packages:
 ```
-$ conda create -n bolt python=3.9
-$ pip install -r requirements
+conda create -n bolt python=3.9
+pip install -r requirements
 ```
 
-This code uses OpenAI's python library. Please ensure that you set the OPENAI_API_KEY environment variable to your OpenAI API key. You can find your API key at [platform.openai.com/api-keys](https://platform.openai.com/api-keys).
+This code uses OpenAI's python library. Please ensure that you set the `OPENAI_API_KEY` environment variable to your OpenAI API key. You can find your API key at [platform.openai.com/api-keys](https://platform.openai.com/api-keys).
 
 
 ### 2. Run Therapist Behavior Inference
 
-A sample test file can be found at [data/sample_therapist_input.jsonl](data/sample_therapist_input.jsonl). To run the therapist behavior inference on this test file, run the following command:
+A sample test file can be found at [dataset/sample_therapist_input.jsonl](dataset/sample_therapist_input.jsonl). To run the therapist behavior inference on this test file, run the following command:
 ```
-$ python therapist_behavior_inference.py --method multi_label_w_def_and_ex --input_path dataset/sample_therapist_input.jsonl --output_path dataset/sample_therapist_output.jsonl
+python therapist_behavior_inference.py --method multi_label_w_def_and_ex --input_path dataset/sample_therapist_input.jsonl --output_path dataset/sample_therapist_output.jsonl
 ```
 
 where `--method` specifies the method to use for therapist behavior inference. The following methods are available:
@@ -51,11 +51,11 @@ where `--method` specifies the method to use for therapist behavior inference. T
 The output file will be saved at the path specified by `--output_path`. The output file will contain the `therapist_behavior` field, which contains the inferred therapist behaviors for each utterance.
 
 
-### 3. Run Client Behavior Analysis
+### 3. Run Client Behavior Inference
 
-A sample test file can be found at [data/sample_client_input.jsonl](data/sample_client_input.jsonl). To run the client behavior analysis on this test file, run the following command:
+A sample test file can be found at [dataset/sample_client_input.jsonl](dataset/sample_client_input.jsonl). To run the client behavior inference on this test file, run the following command:
 ```
-$ python client_behavior_inference.py --method multi_label_w_def_and_ex --input_path dataset/sample_client_input.jsonl --output_path dataset/sample_client_output.jsonl
+python client_behavior_inference.py --method multi_label_w_def_and_ex --input_path dataset/sample_client_input.jsonl --output_path dataset/sample_client_output.jsonl
 ```
 
 where `--method` specifies the method to use for client behavior analysis. The following methods are available:
