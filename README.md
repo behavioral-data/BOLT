@@ -43,9 +43,9 @@ This code uses OpenAI's python library. Please ensure that you set the `OPENAI_A
 
 ### 2. Run Therapist Behavior Inference
 
-A sample test file can be found at [dataset/sample_therapist_input.jsonl](dataset/sample_therapist_input.jsonl). To run the therapist behavior inference on this test file, run the following command:
+A sample test file can be found at [sample_dataset/sample_therapist_input.jsonl](sample_dataset/sample_therapist_input.jsonl). To run the therapist behavior inference on this test file, run the following command:
 ```
-python therapist_behavior_inference.py --method multi_label_w_def_and_ex --input_path dataset/sample_therapist_input.jsonl --output_path dataset/sample_therapist_output.jsonl
+python therapist_behavior_inference.py --method multi_label_w_def_and_ex --input_path sample_dataset/sample_therapist_input.jsonl --output_path sample_dataset/sample_therapist_output.jsonl
 ```
 
 where `--method` specifies the method to use for therapist behavior inference. The following methods are available:
@@ -60,9 +60,9 @@ The output file will be saved at the path specified by `--output_path`. The outp
 
 ### 3. Run Client Behavior Inference
 
-A sample test file can be found at [dataset/sample_client_input.jsonl](dataset/sample_client_input.jsonl). To run the client behavior inference on this test file, run the following command:
+A sample test file can be found at [sample_dataset/sample_client_input.jsonl](sample_dataset/sample_client_input.jsonl). To run the client behavior inference on this test file, run the following command:
 ```
-python client_behavior_inference.py --method multi_label_w_def_and_ex --input_path dataset/sample_client_input.jsonl --output_path dataset/sample_client_output.jsonl
+python client_behavior_inference.py --method multi_label_w_def_and_ex --input_path sample_dataset/sample_client_input.jsonl --output_path sample_dataset/sample_client_output.jsonl
 ```
 
 where `--method` specifies the method to use for client behavior analysis. The following methods are available:
@@ -73,3 +73,7 @@ where `--method` specifies the method to use for client behavior analysis. The f
 
 
 The output file will be saved at the path specified by `--output_path`. The output file will contain the `client_behavior` field, which contains the inferred client behaviors for each utterance.
+
+## Dataset with Conversational Behavior Annotations
+
+Utterances annotated with conversational behavior that were use it to train and evaluate GPT-based methods can be found in [dataset_finetune/]([sample_dataset/).
