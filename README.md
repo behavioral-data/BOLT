@@ -76,4 +76,4 @@ The output file will be saved at the path specified by `--output_path`. The outp
 
 ## Dataset with Conversational Behavior Annotations
 
-Utterances annotated with conversational behavior that were use it to train and evaluate GPT-based methods can be found in [dataset_finetune/]([sample_dataset/).
+Utterances annotated with conversational behavior that were used to train and evaluate GPT-based methods can be found in [dataset_finetune/]([sample_dataset/).
