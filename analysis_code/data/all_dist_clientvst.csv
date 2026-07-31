@@ -1,0 +1,1171 @@
+model_name,avg,std,size_for_model_name,intent_therapist,intent_client,pvalue
+human_high,30.63439065108514,46.116682704274034,1198,Reflections on Needs,Changing unhealthy behavior,
+human_low,24.7887323943662,43.23954937027662,355,Reflections on Needs,Changing unhealthy behavior,
+human_avg,27.71156152272567,45.527655047104254,1553,Reflections on Needs,Changing unhealthy behavior,
+llama2-13b_all,27.76176753121998,44.7931324791784,2082,Reflections on Needs,Changing unhealthy behavior,False
+llama2-70b_all,26.9109000452284,44.35970536783031,2211,Reflections on Needs,Changing unhealthy behavior,False
+gpt_35_all,29.050279329608937,45.41001209869983,2148,Reflections on Needs,Changing unhealthy behavior,False
+gpt4_all,29.290718038528897,45.51958738171832,2284,Reflections on Needs,Changing unhealthy behavior,False
+gpt4_full,25.170998632010942,43.429262673900205,731,Reflections on Needs,Changing unhealthy behavior,False
+gpt_35_full,30.756302521008404,46.18728642584515,595,Reflections on Needs,Changing unhealthy behavior,False
+llama2-13b_full,20.982986767485823,40.757246215766784,529,Reflections on Needs,Changing unhealthy behavior,False
+llama2-70b_full,17.02127659574468,37.610551446409005,658,Reflections on Needs,Changing unhealthy behavior,True
+gpt4_single,31.229877656149387,46.35802328880467,1553,Reflections on Needs,Changing unhealthy behavior,False
+gpt_35_single,28.396651641983254,45.10660098809071,1553,Reflections on Needs,Changing unhealthy behavior,False
+llama2-13b_single,30.070830650354157,45.87137586901322,1553,Reflections on Needs,Changing unhealthy behavior,False
+llama2-70b_single,31.101094655505477,46.30563753043352,1553,Reflections on Needs,Changing unhealthy behavior,False
+human_high,14.607679465776291,35.333068629889205,1198,Reflections on Emotions,Changing unhealthy behavior,
+human_low,6.197183098591549,24.144468502625717,355,Reflections on Emotions,Changing unhealthy behavior,
+human_avg,10.40243128218392,33.29134730932949,1553,Reflections on Emotions,Changing unhealthy behavior,
+llama2-13b_all,8.597502401536984,28.03945105524245,2082,Reflections on Emotions,Changing unhealthy behavior,False
+llama2-70b_all,8.683853459972863,28.16620044962697,2211,Reflections on Emotions,Changing unhealthy behavior,False
+gpt_35_all,11.778398510242086,32.24272261265946,2148,Reflections on Emotions,Changing unhealthy behavior,False
+gpt4_all,8.187390542907181,27.423255689780937,2284,Reflections on Emotions,Changing unhealthy behavior,False
+gpt4_full,7.523939808481532,26.39578450812007,731,Reflections on Emotions,Changing unhealthy behavior,False
+gpt_35_full,7.899159663865547,26.99525926642806,595,Reflections on Emotions,Changing unhealthy behavior,False
+llama2-13b_full,8.128544423440454,27.35316373380775,529,Reflections on Emotions,Changing unhealthy behavior,False
+llama2-70b_full,5.623100303951368,23.05425170939917,658,Reflections on Emotions,Changing unhealthy behavior,False
+gpt4_single,8.49967804249839,27.896673417862456,1553,Reflections on Emotions,Changing unhealthy behavior,False
+gpt_35_single,13.264649066323246,33.93015329086104,1553,Reflections on Emotions,Changing unhealthy behavior,False
+llama2-13b_single,8.757244043786221,28.276313821423862,1553,Reflections on Emotions,Changing unhealthy behavior,False
+llama2-70b_single,9.980682549903412,29.98388119890953,1553,Reflections on Emotions,Changing unhealthy behavior,False
+human_high,7.0116861435726205,25.545049832056367,1198,Reflections on Values,Changing unhealthy behavior,
+human_low,2.535211267605634,15.741405139323852,355,Reflections on Values,Changing unhealthy behavior,
+human_avg,4.773448705589127,23.734840405606445,1553,Reflections on Values,Changing unhealthy behavior,
+llama2-13b_all,4.514889529298751,20.76804968595,2082,Reflections on Values,Changing unhealthy behavior,False
+llama2-70b_all,3.5730438715513344,18.56592696525196,2211,Reflections on Values,Changing unhealthy behavior,False
+gpt_35_all,4.934823091247672,21.664448642748887,2148,Reflections on Values,Changing unhealthy behavior,False
+gpt4_all,4.115586690017513,19.869410332955116,2284,Reflections on Values,Changing unhealthy behavior,False
+gpt4_full,3.830369357045144,19.20598386349312,731,Reflections on Values,Changing unhealthy behavior,False
+gpt_35_full,1.8487394957983196,13.481898735945894,595,Reflections on Values,Changing unhealthy behavior,False
+llama2-13b_full,4.3478260869565215,20.412414523193146,529,Reflections on Values,Changing unhealthy behavior,False
+llama2-70b_full,1.82370820668693,13.39094574453171,658,Reflections on Values,Changing unhealthy behavior,False
+gpt4_single,4.249839021249195,20.178824617036064,1553,Reflections on Values,Changing unhealthy behavior,False
+gpt_35_single,6.117192530585963,23.972259942529664,1553,Reflections on Values,Changing unhealthy behavior,False
+llama2-13b_single,4.571796522858983,20.89400478630453,1553,Reflections on Values,Changing unhealthy behavior,False
+llama2-70b_single,4.314230521571153,20.32428235607866,1553,Reflections on Values,Changing unhealthy behavior,False
+human_high,19.86644407345576,39.91614676805053,1198,Reflections on Consequences,Changing unhealthy behavior,
+human_low,34.647887323943664,47.65195693527507,355,Reflections on Consequences,Changing unhealthy behavior,
+human_avg,27.257165698699712,42.25325224362794,1553,Reflections on Consequences,Changing unhealthy behavior,
+llama2-13b_all,19.596541786743515,39.70373885357414,2082,Reflections on Consequences,Changing unhealthy behavior,True
+llama2-70b_all,16.59882406151063,37.21542494477506,2211,Reflections on Consequences,Changing unhealthy behavior,True
+gpt_35_all,12.33705772811918,32.893867313664856,2148,Reflections on Consequences,Changing unhealthy behavior,True
+gpt4_all,19.92119089316988,39.94951815772082,2284,Reflections on Consequences,Changing unhealthy behavior,True
+gpt4_full,11.49110807113543,31.91329632722271,731,Reflections on Consequences,Changing unhealthy behavior,True
+gpt_35_full,9.243697478991596,28.98855178262239,595,Reflections on Consequences,Changing unhealthy behavior,True
+llama2-13b_full,8.128544423440454,27.35316373380775,529,Reflections on Consequences,Changing unhealthy behavior,True
+llama2-70b_full,5.167173252279635,22.153182321610245,658,Reflections on Consequences,Changing unhealthy behavior,True
+gpt4_single,23.889246619446237,42.65442646337138,1553,Reflections on Consequences,Changing unhealthy behavior,False
+gpt_35_single,13.522215067611077,34.20708504469887,1553,Reflections on Consequences,Changing unhealthy behavior,True
+llama2-13b_single,23.50289761751449,42.41535109310036,1553,Reflections on Consequences,Changing unhealthy behavior,False
+llama2-70b_single,21.442369607211848,41.05541493411372,1553,Reflections on Consequences,Changing unhealthy behavior,True
+human_high,8.263772954924875,27.54488473036213,1198,Reflections on Conflicts,Changing unhealthy behavior,
+human_low,5.633802816901409,23.089875637747628,355,Reflections on Conflicts,Changing unhealthy behavior,
+human_avg,6.948787885913141,26.60825966147923,1553,Reflections on Conflicts,Changing unhealthy behavior,
+llama2-13b_all,6.147934678194044,24.026519427692364,2082,Reflections on Conflicts,Changing unhealthy behavior,False
+llama2-70b_all,4.38715513342379,20.4855604725847,2211,Reflections on Conflicts,Changing unhealthy behavior,False
+gpt_35_all,3.3054003724394785,17.881924705850167,2148,Reflections on Conflicts,Changing unhealthy behavior,True
+gpt4_all,4.115586690017513,19.869410332955116,2284,Reflections on Conflicts,Changing unhealthy behavior,True
+gpt4_full,2.3255813953488373,15.081809401817452,731,Reflections on Conflicts,Changing unhealthy behavior,True
+gpt_35_full,1.3445378151260503,11.526895043327912,595,Reflections on Conflicts,Changing unhealthy behavior,True
+llama2-13b_full,3.213610586011342,17.652842397306166,529,Reflections on Conflicts,Changing unhealthy behavior,False
+llama2-70b_full,1.5197568389057752,12.243113378840569,658,Reflections on Conflicts,Changing unhealthy behavior,True
+gpt4_single,4.958145524790727,21.714856063955214,1553,Reflections on Conflicts,Changing unhealthy behavior,False
+gpt_35_single,4.056664520283323,19.734758792269435,1553,Reflections on Conflicts,Changing unhealthy behavior,True
+llama2-13b_single,7.147456535737283,25.769888131551983,1553,Reflections on Conflicts,Changing unhealthy behavior,False
+llama2-70b_single,5.602060528010303,23.003558574526988,1553,Reflections on Conflicts,Changing unhealthy behavior,False
+human_high,14.106844741235392,34.82375153164499,1198,Reflections on Strengths,Changing unhealthy behavior,
+human_low,4.507042253521127,20.775143529820976,355,Reflections on Strengths,Changing unhealthy behavior,
+human_avg,9.30694349737826,32.40390323221828,1553,Reflections on Strengths,Changing unhealthy behavior,
+llama2-13b_all,22.57444764649376,41.81720915549476,2082,Reflections on Strengths,Changing unhealthy behavior,True
+llama2-70b_all,25.91587516960651,43.82720261483135,2211,Reflections on Strengths,Changing unhealthy behavior,True
+gpt_35_all,35.567970204841714,47.88302329689756,2148,Reflections on Strengths,Changing unhealthy behavior,True
+gpt4_all,44.43957968476357,49.70073674970302,2284,Reflections on Strengths,Changing unhealthy behavior,True
+gpt4_full,76.1969904240766,42.61692430837062,731,Reflections on Strengths,Changing unhealthy behavior,True
+gpt_35_full,62.6890756302521,48.40377101845925,595,Reflections on Strengths,Changing unhealthy behavior,True
+llama2-13b_full,42.34404536862004,49.4571551596207,529,Reflections on Strengths,Changing unhealthy behavior,True
+llama2-70b_full,44.37689969604863,49.720597253921895,658,Reflections on Strengths,Changing unhealthy behavior,True
+gpt4_single,29.49130714745653,45.61505598912268,1553,Reflections on Strengths,Changing unhealthy behavior,True
+gpt_35_single,25.177076625885384,43.41700448331317,1553,Reflections on Strengths,Changing unhealthy behavior,True
+llama2-13b_single,15.840309079201546,36.52361540672883,1553,Reflections on Strengths,Changing unhealthy behavior,True
+llama2-70b_single,18.094011590470057,38.50925610305499,1553,Reflections on Strengths,Changing unhealthy behavior,True
+human_high,40.23372287145242,49.05740212330643,1198,Questions on Experiences,Changing unhealthy behavior,
+human_low,30.985915492957744,46.30880532667385,355,Questions on Experiences,Changing unhealthy behavior,
+human_avg,35.60981918220509,48.583741892066776,1553,Questions on Experiences,Changing unhealthy behavior,
+llama2-13b_all,24.25552353506244,42.87312429566341,2082,Questions on Experiences,Changing unhealthy behavior,True
+llama2-70b_all,27.6797829036635,44.75168940058276,2211,Questions on Experiences,Changing unhealthy behavior,True
+gpt_35_all,16.294227188081937,36.93989912515202,2148,Questions on Experiences,Changing unhealthy behavior,True
+gpt4_all,15.19264448336252,35.9028183869195,2284,Questions on Experiences,Changing unhealthy behavior,True
+gpt4_full,16.27906976744186,36.94273743236269,731,Questions on Experiences,Changing unhealthy behavior,True
+gpt_35_full,8.403361344537815,27.76716544586121,595,Questions on Experiences,Changing unhealthy behavior,True
+llama2-13b_full,27.410207939508503,44.6482885263018,529,Questions on Experiences,Changing unhealthy behavior,True
+llama2-70b_full,21.27659574468085,40.95748360902631,658,Questions on Experiences,Changing unhealthy behavior,True
+gpt4_single,14.68126207340631,35.403302534720034,1553,Questions on Experiences,Changing unhealthy behavior,True
+gpt_35_single,19.31745009658725,39.49158608924596,1553,Questions on Experiences,Changing unhealthy behavior,True
+llama2-13b_single,23.1809401159047,42.21238455338242,1553,Questions on Experiences,Changing unhealthy behavior,True
+llama2-70b_single,30.39278815196394,46.0100028290244,1553,Questions on Experiences,Changing unhealthy behavior,False
+human_high,4.841402337228715,21.472911700067208,1198,Questions on Perspectives,Changing unhealthy behavior,
+human_low,2.2535211267605635,14.86257035151203,355,Questions on Perspectives,Changing unhealthy behavior,
+human_avg,3.5474617319946398,20.17882461703712,1553,Questions on Perspectives,Changing unhealthy behavior,
+llama2-13b_all,4.803073967339097,21.38825840188797,2082,Questions on Perspectives,Changing unhealthy behavior,False
+llama2-70b_all,3.889642695612845,19.33918574675249,2211,Questions on Perspectives,Changing unhealthy behavior,False
+gpt_35_all,0.8379888268156425,9.117859453886894,2148,Questions on Perspectives,Changing unhealthy behavior,True
+gpt4_all,2.7583187390542907,16.381118367170544,2284,Questions on Perspectives,Changing unhealthy behavior,False
+gpt4_full,2.188782489740082,14.641746846173064,731,Questions on Perspectives,Changing unhealthy behavior,False
+gpt_35_full,0.0,0.0,595,Questions on Perspectives,Changing unhealthy behavior,True
+llama2-13b_full,4.3478260869565215,20.412414523193146,529,Questions on Perspectives,Changing unhealthy behavior,False
+llama2-70b_full,4.25531914893617,20.200106483699123,658,Questions on Perspectives,Changing unhealthy behavior,False
+gpt4_single,3.0264005151320026,17.136803960668725,1553,Questions on Perspectives,Changing unhealthy behavior,False
+gpt_35_single,1.1590470057952351,10.706779436195584,1553,Questions on Perspectives,Changing unhealthy behavior,True
+llama2-13b_single,4.958145524790727,21.714856063955214,1553,Questions on Perspectives,Changing unhealthy behavior,False
+llama2-70b_single,3.734707018673535,18.96719052875057,1553,Questions on Perspectives,Changing unhealthy behavior,False
+human_high,11.268781302170282,31.63428567909697,1198,Questions on Emotions,Changing unhealthy behavior,
+human_low,7.887323943661972,26.9921254973314,355,Questions on Emotions,Changing unhealthy behavior,
+human_avg,9.578052622916127,30.65982107073043,1553,Questions on Emotions,Changing unhealthy behavior,
+llama2-13b_all,4.178674351585014,20.01495756321231,2082,Questions on Emotions,Changing unhealthy behavior,True
+llama2-70b_all,3.165988240615106,17.51325396367681,2211,Questions on Emotions,Changing unhealthy behavior,True
+gpt_35_all,0.2793296089385474,5.279006511707155,2148,Questions on Emotions,Changing unhealthy behavior,True
+gpt4_all,0.6567425569176882,8.0790793182234,2284,Questions on Emotions,Changing unhealthy behavior,True
+gpt4_full,0.2735978112175102,5.22707393955064,731,Questions on Emotions,Changing unhealthy behavior,True
+gpt_35_full,0.1680672268907563,4.0996003084539385,595,Questions on Emotions,Changing unhealthy behavior,True
+llama2-13b_full,0.3780718336483932,6.1429291751485104,529,Questions on Emotions,Changing unhealthy behavior,True
+llama2-70b_full,1.0638297872340423,10.26700758113754,658,Questions on Emotions,Changing unhealthy behavior,True
+gpt4_single,0.8370895041854475,9.113820069862255,1553,Questions on Emotions,Changing unhealthy behavior,True
+gpt_35_single,0.3219575016097875,5.666813162920624,1553,Questions on Emotions,Changing unhealthy behavior,True
+llama2-13b_single,5.473277527366387,22.753117224658176,1553,Questions on Emotions,Changing unhealthy behavior,True
+llama2-70b_single,4.056664520283323,19.734758792269435,1553,Questions on Emotions,Changing unhealthy behavior,True
+human_high,20.36727879799666,40.28966128496163,1198,Problem-Solving,Changing unhealthy behavior,
+human_low,36.33802816901409,48.16518882118059,355,Problem-Solving,Changing unhealthy behavior,
+human_avg,28.35265348350537,42.73304431918235,1553,Problem-Solving,Changing unhealthy behavior,
+llama2-13b_all,29.442843419788662,45.58948985228197,2082,Problem-Solving,Changing unhealthy behavior,False
+llama2-70b_all,37.268204432383534,48.362787921630776,2211,Problem-Solving,Changing unhealthy behavior,True
+gpt_35_all,38.12849162011173,48.58154034773197,2148,Problem-Solving,Changing unhealthy behavior,True
+gpt4_all,40.71803852889667,49.141657522707504,2284,Problem-Solving,Changing unhealthy behavior,True
+gpt4_full,38.30369357045144,48.64600365158823,731,Problem-Solving,Changing unhealthy behavior,True
+gpt_35_full,48.23529411764706,50.01089205981755,595,Problem-Solving,Changing unhealthy behavior,True
+llama2-13b_full,41.39886578449905,49.30127002404552,529,Problem-Solving,Changing unhealthy behavior,True
+llama2-70b_full,56.23100303951368,49.647967543335945,658,Problem-Solving,Changing unhealthy behavior,True
+gpt4_single,41.85447520927237,49.34793308348005,1553,Problem-Solving,Changing unhealthy behavior,True
+gpt_35_single,34.256278171281394,47.4719532043497,1553,Problem-Solving,Changing unhealthy behavior,True
+llama2-13b_single,25.37025112685125,43.5269506038189,1553,Problem-Solving,Changing unhealthy behavior,False
+llama2-70b_single,29.233741146168704,45.498301712697135,1553,Problem-Solving,Changing unhealthy behavior,False
+human_high,10.684474123539232,30.904476363960207,1198,Planning,Changing unhealthy behavior,
+human_low,16.619718309859156,37.27829611855082,355,Planning,Changing unhealthy behavior,
+human_avg,13.652096216699194,32.554765144063325,1553,Planning,Changing unhealthy behavior,
+llama2-13b_all,25.88856868395773,43.81279332764555,2082,Planning,Changing unhealthy behavior,True
+llama2-70b_all,32.42876526458616,46.82139710093959,2211,Planning,Changing unhealthy behavior,True
+gpt_35_all,32.4487895716946,46.82922112341793,2148,Planning,Changing unhealthy behavior,True
+gpt4_all,32.35551663747811,46.7934919555673,2284,Planning,Changing unhealthy behavior,True
+gpt4_full,47.60601915184679,49.97685126486403,731,Planning,Changing unhealthy behavior,True
+gpt_35_full,54.95798319327731,49.79543928617776,595,Planning,Changing unhealthy behavior,True
+llama2-13b_full,48.01512287334594,50.007875876240135,529,Planning,Changing unhealthy behavior,True
+llama2-70b_full,63.98176291793313,48.04183522454993,658,Planning,Changing unhealthy behavior,True
+gpt4_single,25.177076625885384,43.41700448331317,1553,Planning,Changing unhealthy behavior,True
+gpt_35_single,23.82485511912428,42.61491710863111,1553,Planning,Changing unhealthy behavior,True
+llama2-13b_single,18.351577591757888,38.72134822547872,1553,Planning,Changing unhealthy behavior,True
+llama2-70b_single,19.05988409529942,39.2899890745903,1553,Planning,Changing unhealthy behavior,True
+human_high,10.51752921535893,30.69072734722196,1198,Normalizing,Changing unhealthy behavior,
+human_low,17.464788732394364,38.02015187705974,355,Normalizing,Changing unhealthy behavior,
+human_avg,13.991158973876647,32.629743811827886,1553,Normalizing,Changing unhealthy behavior,
+llama2-13b_all,13.8328530259366,34.53274172797208,2082,Normalizing,Changing unhealthy behavior,False
+llama2-70b_all,9.905020352781548,29.879698871456117,2211,Normalizing,Changing unhealthy behavior,True
+gpt_35_all,23.370577281191807,42.3285716052726,2148,Normalizing,Changing unhealthy behavior,True
+gpt4_all,27.97723292469352,44.89855610097899,2284,Normalizing,Changing unhealthy behavior,True
+gpt4_full,52.667578659370726,49.96297562914081,731,Normalizing,Changing unhealthy behavior,True
+gpt_35_full,52.77310924369748,49.96504451090037,595,Normalizing,Changing unhealthy behavior,True
+llama2-13b_full,21.73913043478261,41.28614119223855,529,Normalizing,Changing unhealthy behavior,True
+llama2-70b_full,18.54103343465045,38.89257327377308,658,Normalizing,Changing unhealthy behavior,False
+gpt4_single,16.355441081777204,36.9989881838077,1553,Normalizing,Changing unhealthy behavior,False
+gpt_35_single,12.10560206052801,32.6297438118286,1553,Normalizing,Changing unhealthy behavior,False
+llama2-13b_single,11.139729555698649,31.472483058622178,1553,Normalizing,Changing unhealthy behavior,False
+llama2-70b_single,6.2459755312298775,24.20666546490477,1553,Normalizing,Changing unhealthy behavior,True
+human_high,3.5058430717863103,18.400434484593465,1198,Psychoeducation,Changing unhealthy behavior,
+human_low,7.323943661971831,26.08968378924519,355,Psychoeducation,Changing unhealthy behavior,
+human_avg,5.41489336687907,20.46850375040472,1553,Psychoeducation,Changing unhealthy behavior,
+llama2-13b_all,5.811719500480307,23.402113390069687,2082,Psychoeducation,Changing unhealthy behavior,False
+llama2-70b_all,8.457711442786069,27.83143179004867,2211,Psychoeducation,Changing unhealthy behavior,True
+gpt_35_all,12.011173184357542,32.516784615266886,2148,Psychoeducation,Changing unhealthy behavior,True
+gpt4_all,6.129597197898423,23.992494439153266,2284,Psychoeducation,Changing unhealthy behavior,False
+gpt4_full,9.165526675786596,28.87362571650383,731,Psychoeducation,Changing unhealthy behavior,True
+gpt_35_full,8.907563025210084,28.50925527450776,595,Psychoeducation,Changing unhealthy behavior,False
+llama2-13b_full,13.988657844990549,34.719763713539265,529,Psychoeducation,Changing unhealthy behavior,True
+llama2-70b_full,21.428571428571427,41.06380569663428,658,Psychoeducation,Changing unhealthy behavior,True
+gpt4_single,4.700579523502897,21.17194228520037,1553,Psychoeducation,Changing unhealthy behavior,False
+gpt_35_single,13.200257566001287,33.86026013527464,1553,Psychoeducation,Changing unhealthy behavior,True
+llama2-13b_single,3.0264005151320026,17.136803960668725,1553,Psychoeducation,Changing unhealthy behavior,True
+llama2-70b_single,2.962009014810045,16.959145088913708,1553,Psychoeducation,Changing unhealthy behavior,True
+human_high,30.545454545454547,46.143942585052685,275,Reflections on Needs,Sustaining unhealthy behavior,
+human_low,24.561403508771928,43.235112551082366,114,Reflections on Needs,Sustaining unhealthy behavior,
+human_avg,27.55342902711324,45.33756929839569,389,Reflections on Needs,Sustaining unhealthy behavior,
+llama2-13b_all,30.1123595505618,45.92626243372855,445,Reflections on Needs,Sustaining unhealthy behavior,False
+llama2-70b_all,31.46473779385172,46.479572464666106,553,Reflections on Needs,Sustaining unhealthy behavior,False
+gpt_35_all,35.79952267303103,47.99838414107706,419,Reflections on Needs,Sustaining unhealthy behavior,False
+gpt4_all,36.46788990825688,48.18929509729354,436,Reflections on Needs,Sustaining unhealthy behavior,False
+gpt4_full,59.57446808510638,49.60528753410617,47,Reflections on Needs,Sustaining unhealthy behavior,True
+gpt_35_full,43.333333333333336,50.400693299373074,30,Reflections on Needs,Sustaining unhealthy behavior,False
+llama2-13b_full,41.07142857142857,49.64157243969731,56,Reflections on Needs,Sustaining unhealthy behavior,False
+llama2-70b_full,34.14634146341464,47.56529176193521,164,Reflections on Needs,Sustaining unhealthy behavior,False
+gpt4_single,33.67609254498715,47.3211006437482,389,Reflections on Needs,Sustaining unhealthy behavior,False
+gpt_35_single,35.2185089974293,47.82664213355532,389,Reflections on Needs,Sustaining unhealthy behavior,False
+llama2-13b_single,28.53470437017995,45.216112830637,389,Reflections on Needs,Sustaining unhealthy behavior,False
+llama2-70b_single,30.334190231362467,46.029365214348616,389,Reflections on Needs,Sustaining unhealthy behavior,False
+human_high,13.818181818181818,34.57198715654345,275,Reflections on Emotions,Sustaining unhealthy behavior,
+human_low,9.649122807017545,29.65673301938379,114,Reflections on Emotions,Sustaining unhealthy behavior,
+human_avg,11.73365231259968,33.22361114523018,389,Reflections on Emotions,Sustaining unhealthy behavior,
+llama2-13b_all,14.157303370786517,34.90040491143464,445,Reflections on Emotions,Sustaining unhealthy behavior,False
+llama2-70b_all,11.030741410488243,31.355617963793208,553,Reflections on Emotions,Sustaining unhealthy behavior,False
+gpt_35_all,14.797136038186158,35.54960670995736,419,Reflections on Emotions,Sustaining unhealthy behavior,False
+gpt4_all,9.174311926605505,28.899459180143467,436,Reflections on Emotions,Sustaining unhealthy behavior,False
+gpt4_full,17.02127659574468,37.98826441307215,47,Reflections on Emotions,Sustaining unhealthy behavior,False
+gpt_35_full,13.333333333333334,34.574590364176046,30,Reflections on Emotions,Sustaining unhealthy behavior,False
+llama2-13b_full,25.0,43.69314487526515,56,Reflections on Emotions,Sustaining unhealthy behavior,False
+llama2-70b_full,9.75609756097561,29.762891613431616,164,Reflections on Emotions,Sustaining unhealthy behavior,False
+gpt4_single,8.226221079691516,27.511763769967622,389,Reflections on Emotions,Sustaining unhealthy behavior,False
+gpt_35_single,14.910025706940877,35.66459775809567,389,Reflections on Emotions,Sustaining unhealthy behavior,False
+llama2-13b_single,12.596401028277636,33.22361114523049,389,Reflections on Emotions,Sustaining unhealthy behavior,False
+llama2-70b_single,11.568123393316196,32.02541857449067,389,Reflections on Emotions,Sustaining unhealthy behavior,False
+human_high,6.545454545454546,24.77771115618537,275,Reflections on Values,Sustaining unhealthy behavior,
+human_low,7.017543859649122,25.657023898533573,114,Reflections on Values,Sustaining unhealthy behavior,
+human_avg,6.781499202551834,25.006293433067903,389,Reflections on Values,Sustaining unhealthy behavior,
+llama2-13b_all,3.820224719101124,19.189994693740378,445,Reflections on Values,Sustaining unhealthy behavior,False
+llama2-70b_all,4.701627486437613,21.18653218195961,553,Reflections on Values,Sustaining unhealthy behavior,False
+gpt_35_all,3.579952267303103,18.60120845479071,419,Reflections on Values,Sustaining unhealthy behavior,False
+gpt4_all,4.128440366972477,19.917577712406885,436,Reflections on Values,Sustaining unhealthy behavior,False
+gpt4_full,4.25531914893617,20.402970888857872,47,Reflections on Values,Sustaining unhealthy behavior,False
+gpt_35_full,3.333333333333333,18.257418583505537,30,Reflections on Values,Sustaining unhealthy behavior,False
+llama2-13b_full,0.0,0.0,56,Reflections on Values,Sustaining unhealthy behavior,False
+llama2-70b_full,5.487804878048781,22.84395929197636,164,Reflections on Values,Sustaining unhealthy behavior,False
+gpt4_single,4.113110539845758,19.88491522345356,389,Reflections on Values,Sustaining unhealthy behavior,False
+gpt_35_single,3.5989717223650386,18.650435968805606,389,Reflections on Values,Sustaining unhealthy behavior,False
+llama2-13b_single,4.370179948586118,20.46940727636943,389,Reflections on Values,Sustaining unhealthy behavior,False
+llama2-70b_single,4.370179948586118,20.46940727636943,389,Reflections on Values,Sustaining unhealthy behavior,False
+human_high,26.545454545454543,44.238000221190006,275,Reflections on Consequences,Sustaining unhealthy behavior,
+human_low,45.614035087719294,50.02716231623258,114,Reflections on Consequences,Sustaining unhealthy behavior,
+human_avg,36.07974481658692,46.75911755303035,389,Reflections on Consequences,Sustaining unhealthy behavior,
+llama2-13b_all,31.46067415730337,46.48816961291233,445,Reflections on Consequences,Sustaining unhealthy behavior,False
+llama2-70b_all,26.582278481012654,44.21703116220187,553,Reflections on Consequences,Sustaining unhealthy behavior,False
+gpt_35_all,27.446300715990454,44.677674486555006,419,Reflections on Consequences,Sustaining unhealthy behavior,False
+gpt4_all,35.091743119266056,47.78054070014515,436,Reflections on Consequences,Sustaining unhealthy behavior,False
+gpt4_full,34.04255319148936,47.897516249850746,47,Reflections on Consequences,Sustaining unhealthy behavior,False
+gpt_35_full,43.333333333333336,50.400693299373074,30,Reflections on Consequences,Sustaining unhealthy behavior,False
+llama2-13b_full,32.142857142857146,47.12514425207864,56,Reflections on Consequences,Sustaining unhealthy behavior,False
+llama2-70b_full,23.170731707317078,42.321528518573565,164,Reflections on Consequences,Sustaining unhealthy behavior,False
+gpt4_single,35.2185089974293,47.82664213355532,389,Reflections on Consequences,Sustaining unhealthy behavior,False
+gpt_35_single,26.22107969151671,44.04031035250164,389,Reflections on Consequences,Sustaining unhealthy behavior,False
+llama2-13b_single,31.362467866323907,46.45632834586138,389,Reflections on Consequences,Sustaining unhealthy behavior,False
+llama2-70b_single,28.020565552699228,44.967795907198976,389,Reflections on Consequences,Sustaining unhealthy behavior,False
+human_high,7.636363636363637,26.60632411812949,275,Reflections on Conflicts,Sustaining unhealthy behavior,
+human_low,8.771929824561402,28.413518871303083,114,Reflections on Conflicts,Sustaining unhealthy behavior,
+human_avg,8.204146730462519,27.116379090876425,389,Reflections on Conflicts,Sustaining unhealthy behavior,
+llama2-13b_all,8.089887640449438,27.298665301431942,445,Reflections on Conflicts,Sustaining unhealthy behavior,False
+llama2-70b_all,6.690777576853527,25.008843470847424,553,Reflections on Conflicts,Sustaining unhealthy behavior,False
+gpt_35_all,6.921241050119332,25.41184221523305,419,Reflections on Conflicts,Sustaining unhealthy behavior,False
+gpt4_all,11.238532110091745,31.62027549228749,436,Reflections on Conflicts,Sustaining unhealthy behavior,False
+gpt4_full,21.27659574468085,41.368808943170016,47,Reflections on Conflicts,Sustaining unhealthy behavior,False
+gpt_35_full,10.0,30.51285766293647,30,Reflections on Conflicts,Sustaining unhealthy behavior,False
+llama2-13b_full,14.285714285714286,35.309393180189986,56,Reflections on Conflicts,Sustaining unhealthy behavior,False
+llama2-70b_full,7.317073170731708,26.12141450372844,164,Reflections on Conflicts,Sustaining unhealthy behavior,False
+gpt4_single,10.025706940874036,30.072924379729773,389,Reflections on Conflicts,Sustaining unhealthy behavior,False
+gpt_35_single,6.683804627249358,25.00629343306801,389,Reflections on Conflicts,Sustaining unhealthy behavior,False
+llama2-13b_single,7.197943444730077,25.878670034798716,389,Reflections on Conflicts,Sustaining unhealthy behavior,False
+llama2-70b_single,6.426735218508997,24.554439934547435,389,Reflections on Conflicts,Sustaining unhealthy behavior,False
+human_high,6.909090909090909,25.40710338576998,275,Reflections on Strengths,Sustaining unhealthy behavior,
+human_low,3.508771929824561,18.48139251449833,114,Reflections on Strengths,Sustaining unhealthy behavior,
+human_avg,5.208931419457735,23.616405504711604,389,Reflections on Strengths,Sustaining unhealthy behavior,
+llama2-13b_all,4.719101123595506,21.228586860436604,445,Reflections on Strengths,Sustaining unhealthy behavior,False
+llama2-70b_all,7.594936708860759,26.51569352859057,553,Reflections on Strengths,Sustaining unhealthy behavior,False
+gpt_35_all,8.1145584725537,27.338499291743943,419,Reflections on Strengths,Sustaining unhealthy behavior,False
+gpt4_all,11.69724770642202,32.17566856461387,436,Reflections on Strengths,Sustaining unhealthy behavior,False
+gpt4_full,14.893617021276595,35.98745798587226,47,Reflections on Strengths,Sustaining unhealthy behavior,False
+gpt_35_full,13.333333333333334,34.574590364176046,30,Reflections on Strengths,Sustaining unhealthy behavior,False
+llama2-13b_full,5.357142857142857,22.720778292870296,56,Reflections on Strengths,Sustaining unhealthy behavior,False
+llama2-70b_full,13.414634146341465,34.18533076836658,164,Reflections on Strengths,Sustaining unhealthy behavior,False
+gpt4_single,11.311053984575835,31.71357649643969,389,Reflections on Strengths,Sustaining unhealthy behavior,False
+gpt_35_single,7.712082262210797,26.71266318174317,389,Reflections on Strengths,Sustaining unhealthy behavior,False
+llama2-13b_single,4.627249357326479,21.03451699096821,389,Reflections on Strengths,Sustaining unhealthy behavior,False
+llama2-70b_single,5.141388174807198,22.11248327584908,389,Reflections on Strengths,Sustaining unhealthy behavior,False
+human_high,46.18181818181818,49.94489332198965,275,Questions on Experiences,Sustaining unhealthy behavior,
+human_low,32.45614035087719,47.02779075775668,114,Questions on Experiences,Sustaining unhealthy behavior,
+human_avg,39.31897926634768,49.445015756126125,389,Questions on Experiences,Sustaining unhealthy behavior,
+llama2-13b_all,30.56179775280899,46.11871555766409,445,Questions on Experiences,Sustaining unhealthy behavior,False
+llama2-70b_all,29.65641952983725,45.71562063989,553,Questions on Experiences,Sustaining unhealthy behavior,False
+gpt_35_all,20.52505966587112,40.43674506401371,419,Questions on Experiences,Sustaining unhealthy behavior,True
+gpt4_all,19.495412844036696,39.66204911283784,436,Questions on Experiences,Sustaining unhealthy behavior,True
+gpt4_full,34.04255319148936,47.897516249850746,47,Questions on Experiences,Sustaining unhealthy behavior,False
+gpt_35_full,23.33333333333333,43.01830671520764,30,Questions on Experiences,Sustaining unhealthy behavior,False
+llama2-13b_full,50.0,50.4524979109513,56,Questions on Experiences,Sustaining unhealthy behavior,False
+llama2-70b_full,29.87804878048781,45.912530934189206,164,Questions on Experiences,Sustaining unhealthy behavior,False
+gpt4_single,17.737789203084834,38.2480123632452,389,Questions on Experiences,Sustaining unhealthy behavior,True
+gpt_35_single,20.308483290488432,40.281323279752016,389,Questions on Experiences,Sustaining unhealthy behavior,True
+llama2-13b_single,27.763496143958868,44.84090552569195,389,Questions on Experiences,Sustaining unhealthy behavior,False
+llama2-70b_single,29.56298200514139,45.69130246536689,389,Questions on Experiences,Sustaining unhealthy behavior,False
+human_high,4.363636363636364,20.465712501363196,275,Questions on Perspectives,Sustaining unhealthy behavior,
+human_low,2.631578947368421,16.077942433131614,114,Questions on Perspectives,Sustaining unhealthy behavior,
+human_avg,3.4976076555023923,19.279278063181707,389,Questions on Perspectives,Sustaining unhealthy behavior,
+llama2-13b_all,6.067415730337078,23.900034751006203,445,Questions on Perspectives,Sustaining unhealthy behavior,False
+llama2-70b_all,6.871609403254973,25.319977085599355,553,Questions on Perspectives,Sustaining unhealthy behavior,False
+gpt_35_all,2.6252983293556085,16.00778607186982,419,Questions on Perspectives,Sustaining unhealthy behavior,False
+gpt4_all,7.568807339449541,26.48022188762724,436,Questions on Perspectives,Sustaining unhealthy behavior,False
+gpt4_full,14.893617021276595,35.98745798587226,47,Questions on Perspectives,Sustaining unhealthy behavior,False
+gpt_35_full,6.666666666666667,25.37081317024624,30,Questions on Perspectives,Sustaining unhealthy behavior,False
+llama2-13b_full,12.5,33.37119062359573,56,Questions on Perspectives,Sustaining unhealthy behavior,False
+llama2-70b_full,10.365853658536585,30.575065904998763,164,Questions on Perspectives,Sustaining unhealthy behavior,False
+gpt4_single,6.683804627249358,25.00629343306801,389,Questions on Perspectives,Sustaining unhealthy behavior,False
+gpt_35_single,2.3136246786632397,15.05297670575928,389,Questions on Perspectives,Sustaining unhealthy behavior,False
+llama2-13b_single,5.141388174807198,22.11248327584908,389,Questions on Perspectives,Sustaining unhealthy behavior,False
+llama2-70b_single,5.398457583547557,22.627829268593885,389,Questions on Perspectives,Sustaining unhealthy behavior,False
+human_high,10.545454545454543,30.7698177678684,275,Questions on Emotions,Sustaining unhealthy behavior,
+human_low,7.894736842105263,27.08471417544477,114,Questions on Emotions,Sustaining unhealthy behavior,
+human_avg,9.220095693779903,29.72724709834625,389,Questions on Emotions,Sustaining unhealthy behavior,
+llama2-13b_all,5.842696629213483,23.48130312217396,445,Questions on Emotions,Sustaining unhealthy behavior,False
+llama2-70b_all,2.5316455696202533,15.722669881193571,553,Questions on Emotions,Sustaining unhealthy behavior,True
+gpt_35_all,0.477326968973747,6.900616192963951,419,Questions on Emotions,Sustaining unhealthy behavior,True
+gpt4_all,0.4587155963302752,6.765065245199204,436,Questions on Emotions,Sustaining unhealthy behavior,True
+gpt4_full,0.0,0.0,47,Questions on Emotions,Sustaining unhealthy behavior,False
+gpt_35_full,0.0,0.0,30,Questions on Emotions,Sustaining unhealthy behavior,False
+llama2-13b_full,0.0,0.0,56,Questions on Emotions,Sustaining unhealthy behavior,False
+llama2-70b_full,1.2195121951219512,11.009225791186353,164,Questions on Emotions,Sustaining unhealthy behavior,False
+gpt4_single,0.5141388174807198,7.161101294044558,389,Questions on Emotions,Sustaining unhealthy behavior,True
+gpt_35_single,0.5141388174807198,7.161101294044558,389,Questions on Emotions,Sustaining unhealthy behavior,True
+llama2-13b_single,6.683804627249358,25.00629343306801,389,Questions on Emotions,Sustaining unhealthy behavior,False
+llama2-70b_single,3.0848329048843186,17.312932454990964,389,Questions on Emotions,Sustaining unhealthy behavior,True
+human_high,15.636363636363637,36.3861907492327,275,Problem-Solving,Sustaining unhealthy behavior,
+human_low,31.57894736842105,46.68817567173442,114,Problem-Solving,Sustaining unhealthy behavior,
+human_avg,23.607655502392344,40.28132327975159,389,Problem-Solving,Sustaining unhealthy behavior,
+llama2-13b_all,21.797752808988765,41.33367292488398,445,Problem-Solving,Sustaining unhealthy behavior,False
+llama2-70b_all,33.99638336347197,47.41254330088787,553,Problem-Solving,Sustaining unhealthy behavior,True
+gpt_35_all,27.9236276849642,44.91601828713388,419,Problem-Solving,Sustaining unhealthy behavior,False
+gpt4_all,31.42201834862385,46.47378073373232,436,Problem-Solving,Sustaining unhealthy behavior,False
+gpt4_full,40.42553191489362,49.60528753410621,47,Problem-Solving,Sustaining unhealthy behavior,False
+gpt_35_full,50.0,50.85476277156078,30,Problem-Solving,Sustaining unhealthy behavior,False
+llama2-13b_full,46.42857142857143,50.32362797401962,56,Problem-Solving,Sustaining unhealthy behavior,True
+llama2-70b_full,58.53658536585366,49.41676899805755,164,Problem-Solving,Sustaining unhealthy behavior,True
+gpt4_single,30.334190231362467,46.029365214348616,389,Problem-Solving,Sustaining unhealthy behavior,False
+gpt_35_single,26.22107969151671,44.04031035250164,389,Problem-Solving,Sustaining unhealthy behavior,False
+llama2-13b_single,18.251928020565558,38.67693680813907,389,Problem-Solving,Sustaining unhealthy behavior,False
+llama2-70b_single,23.65038560411311,42.5482277134073,389,Problem-Solving,Sustaining unhealthy behavior,False
+human_high,4.0,19.631644349213712,275,Planning,Sustaining unhealthy behavior,
+human_low,7.894736842105263,27.08471417544477,114,Planning,Sustaining unhealthy behavior,
+human_avg,5.947368421052632,22.112483275849225,389,Planning,Sustaining unhealthy behavior,
+llama2-13b_all,10.112359550561798,30.18316389866199,445,Planning,Sustaining unhealthy behavior,False
+llama2-70b_all,19.89150090415913,39.954536891499984,553,Planning,Sustaining unhealthy behavior,True
+gpt_35_all,9.307875894988069,29.089010569422943,419,Planning,Sustaining unhealthy behavior,False
+gpt4_all,12.844036697247706,33.4963849308807,436,Planning,Sustaining unhealthy behavior,True
+gpt4_full,14.893617021276595,35.98745798587226,47,Planning,Sustaining unhealthy behavior,False
+gpt_35_full,26.666666666666668,44.97764451088037,30,Planning,Sustaining unhealthy behavior,True
+llama2-13b_full,21.428571428571427,41.403933560541255,56,Planning,Sustaining unhealthy behavior,True
+llama2-70b_full,40.85365853658536,49.306882246190966,164,Planning,Sustaining unhealthy behavior,True
+gpt4_single,12.596401028277636,33.22361114523049,389,Planning,Sustaining unhealthy behavior,False
+gpt_35_single,7.969151670951157,27.11637909087665,389,Planning,Sustaining unhealthy behavior,False
+llama2-13b_single,8.483290488431876,27.89917142971038,389,Planning,Sustaining unhealthy behavior,False
+llama2-70b_single,11.053984575835475,31.396527252472158,389,Planning,Sustaining unhealthy behavior,False
+human_high,10.545454545454543,30.7698177678684,275,Normalizing,Sustaining unhealthy behavior,
+human_low,17.543859649122805,38.20210353075871,114,Normalizing,Sustaining unhealthy behavior,
+human_avg,14.044657097288674,33.22361114523018,389,Normalizing,Sustaining unhealthy behavior,
+llama2-13b_all,7.415730337078652,26.232162102574925,445,Normalizing,Sustaining unhealthy behavior,False
+llama2-70b_all,6.871609403254973,25.319977085599355,553,Normalizing,Sustaining unhealthy behavior,True
+gpt_35_all,15.513126491646778,36.24625629255506,419,Normalizing,Sustaining unhealthy behavior,False
+gpt4_all,14.678899082568808,35.430198362788936,436,Normalizing,Sustaining unhealthy behavior,False
+gpt4_full,31.91489361702128,47.118642939800765,47,Normalizing,Sustaining unhealthy behavior,False
+gpt_35_full,46.66666666666666,50.74162634049248,30,Normalizing,Sustaining unhealthy behavior,True
+llama2-13b_full,5.357142857142857,22.720778292870296,56,Normalizing,Sustaining unhealthy behavior,False
+llama2-70b_full,10.975609756097562,31.35428879764752,164,Normalizing,Sustaining unhealthy behavior,False
+gpt4_single,12.596401028277636,33.22361114523049,389,Normalizing,Sustaining unhealthy behavior,False
+gpt_35_single,13.110539845758357,33.79502520832801,389,Normalizing,Sustaining unhealthy behavior,False
+llama2-13b_single,7.712082262210797,26.71266318174317,389,Normalizing,Sustaining unhealthy behavior,False
+llama2-70b_single,5.141388174807198,22.11248327584908,389,Normalizing,Sustaining unhealthy behavior,True
+human_high,4.727272727272728,21.260853428784163,275,Psychoeducation,Sustaining unhealthy behavior,
+human_low,14.912280701754383,35.77821589746283,114,Psychoeducation,Sustaining unhealthy behavior,
+human_avg,9.819776714513557,26.712663181743174,389,Psychoeducation,Sustaining unhealthy behavior,
+llama2-13b_all,2.9213483146067416,16.85939783845343,445,Psychoeducation,Sustaining unhealthy behavior,True
+llama2-70b_all,5.244122965641953,22.31169363417845,553,Psychoeducation,Sustaining unhealthy behavior,False
+gpt_35_all,11.933174224343675,32.45660072051318,419,Psychoeducation,Sustaining unhealthy behavior,False
+gpt4_all,2.0642201834862384,14.23466723687321,436,Psychoeducation,Sustaining unhealthy behavior,True
+gpt4_full,4.25531914893617,20.402970888857872,47,Psychoeducation,Sustaining unhealthy behavior,False
+gpt_35_full,3.333333333333333,18.257418583505537,30,Psychoeducation,Sustaining unhealthy behavior,False
+llama2-13b_full,10.714285714285714,31.20938919661797,56,Psychoeducation,Sustaining unhealthy behavior,False
+llama2-70b_full,11.585365853658535,32.102959831247325,164,Psychoeducation,Sustaining unhealthy behavior,False
+gpt4_single,1.7994858611825193,13.310367238496456,389,Psychoeducation,Sustaining unhealthy behavior,True
+gpt_35_single,12.596401028277636,33.22361114523049,389,Psychoeducation,Sustaining unhealthy behavior,False
+llama2-13b_single,1.7994858611825193,13.310367238496456,389,Psychoeducation,Sustaining unhealthy behavior,True
+llama2-70b_single,2.570694087403599,15.846338963231211,389,Psychoeducation,Sustaining unhealthy behavior,True
+human_high,28.94736842105264,45.3869531935757,646,Reflections on Needs,Sharing negative emotions,
+human_low,20.114942528735632,40.20163781420667,174,Reflections on Needs,Sharing negative emotions,
+human_avg,24.53115547489413,44.46089513587628,820,Reflections on Needs,Sharing negative emotions,
+llama2-13b_all,31.867145421903054,46.61706069861409,1114,Reflections on Needs,Sharing negative emotions,True
+llama2-70b_all,28.883495145631063,45.3404505504094,1236,Reflections on Needs,Sharing negative emotions,False
+gpt_35_all,32.28346456692913,46.7790357891681,1016,Reflections on Needs,Sharing negative emotions,True
+gpt4_all,38.94637817497648,48.78582216204111,1063,Reflections on Needs,Sharing negative emotions,True
+gpt4_full,48.14814814814815,50.06882315714636,243,Reflections on Needs,Sharing negative emotions,True
+gpt_35_full,41.83673469387755,49.45543321427176,196,Reflections on Needs,Sharing negative emotions,True
+llama2-13b_full,30.272108843537413,46.021890891959096,294,Reflections on Needs,Sharing negative emotions,False
+llama2-70b_full,23.07692307692308,42.18323593423364,416,Reflections on Needs,Sharing negative emotions,False
+gpt4_single,36.21951219512195,48.09281431283223,820,Reflections on Needs,Sharing negative emotions,True
+gpt_35_single,30.0,45.85372506748064,820,Reflections on Needs,Sharing negative emotions,False
+llama2-13b_single,32.4390243902439,46.84322893148094,820,Reflections on Needs,Sharing negative emotions,True
+llama2-70b_single,31.82926829268293,46.60980441490658,820,Reflections on Needs,Sharing negative emotions,False
+human_high,27.39938080495356,44.63514379534917,646,Reflections on Emotions,Sharing negative emotions,
+human_low,11.494252873563218,31.987307296040075,174,Reflections on Emotions,Sharing negative emotions,
+human_avg,19.44681683925839,42.749226330854896,820,Reflections on Emotions,Sharing negative emotions,
+llama2-13b_all,23.967684021543985,42.70779586977741,1114,Reflections on Emotions,Sharing negative emotions,False
+llama2-70b_all,25.080906148867317,43.36542690340166,1236,Reflections on Emotions,Sharing negative emotions,False
+gpt_35_all,33.85826771653543,47.34607510796698,1016,Reflections on Emotions,Sharing negative emotions,True
+gpt4_all,27.37535277516463,44.6093868564543,1063,Reflections on Emotions,Sharing negative emotions,True
+gpt4_full,23.868312757201647,42.715848860062046,243,Reflections on Emotions,Sharing negative emotions,False
+gpt_35_full,24.489795918367346,43.11279062941266,196,Reflections on Emotions,Sharing negative emotions,False
+llama2-13b_full,22.10884353741497,41.56874798327391,294,Reflections on Emotions,Sharing negative emotions,False
+llama2-70b_full,19.471153846153847,39.64552737186307,416,Reflections on Emotions,Sharing negative emotions,False
+gpt4_single,28.414634146341463,45.12821274254149,820,Reflections on Emotions,Sharing negative emotions,True
+gpt_35_single,36.09756097560975,48.05766015717585,820,Reflections on Emotions,Sharing negative emotions,True
+llama2-13b_single,24.634146341463413,43.114270800342034,820,Reflections on Emotions,Sharing negative emotions,False
+llama2-70b_single,27.92682926829268,44.89134365047385,820,Reflections on Emotions,Sharing negative emotions,True
+human_high,7.430340557275541,26.246723393141806,646,Reflections on Values,Sharing negative emotions,
+human_low,5.172413793103448,22.210869024206342,174,Reflections on Values,Sharing negative emotions,
+human_avg,6.301377175189495,25.447833800801654,820,Reflections on Values,Sharing negative emotions,
+llama2-13b_all,5.565529622980251,22.93578120759018,1114,Reflections on Values,Sharing negative emotions,False
+llama2-70b_all,3.9644012944983817,19.520039192752808,1236,Reflections on Values,Sharing negative emotions,False
+gpt_35_all,4.921259842519685,21.64181549952931,1016,Reflections on Values,Sharing negative emotions,False
+gpt4_all,4.51552210724365,20.774221084367515,1063,Reflections on Values,Sharing negative emotions,False
+gpt4_full,7.407407407407407,26.243194054073893,243,Reflections on Values,Sharing negative emotions,False
+gpt_35_full,2.5510204081632653,15.807250818551813,196,Reflections on Values,Sharing negative emotions,False
+llama2-13b_full,4.421768707482993,20.59289289576936,294,Reflections on Values,Sharing negative emotions,False
+llama2-70b_full,3.8461538461538463,19.25392489145192,416,Reflections on Values,Sharing negative emotions,False
+gpt4_single,3.658536585365854,18.785609742218607,820,Reflections on Values,Sharing negative emotions,False
+gpt_35_single,5.487804878048781,22.788106007198927,820,Reflections on Values,Sharing negative emotions,False
+llama2-13b_single,5.975609756097561,23.717906461771264,820,Reflections on Values,Sharing negative emotions,False
+llama2-70b_single,4.024390243902439,19.665068296478267,820,Reflections on Values,Sharing negative emotions,False
+human_high,18.26625386996904,38.66890272205489,646,Reflections on Consequences,Sharing negative emotions,
+human_low,25.287356321839084,43.591351967804215,174,Reflections on Consequences,Sharing negative emotions,
+human_avg,21.776805095904063,39.840206152407525,820,Reflections on Consequences,Sharing negative emotions,
+llama2-13b_all,22.17235188509874,41.55926400301952,1114,Reflections on Consequences,Sharing negative emotions,False
+llama2-70b_all,16.74757281553398,37.35512086491934,1236,Reflections on Consequences,Sharing negative emotions,False
+gpt_35_all,13.976377952755906,34.69125517030915,1016,Reflections on Consequences,Sharing negative emotions,True
+gpt4_all,21.26058325493885,40.93436501992127,1063,Reflections on Consequences,Sharing negative emotions,False
+gpt4_full,21.39917695473251,41.09675540848598,243,Reflections on Consequences,Sharing negative emotions,False
+gpt_35_full,18.367346938775512,38.82092688495757,196,Reflections on Consequences,Sharing negative emotions,False
+llama2-13b_full,14.625850340136054,35.3967683074647,294,Reflections on Consequences,Sharing negative emotions,False
+llama2-70b_full,8.89423076923077,28.50032112073776,416,Reflections on Consequences,Sharing negative emotions,True
+gpt4_single,21.21951219512195,40.91118000417975,820,Reflections on Consequences,Sharing negative emotions,False
+gpt_35_single,12.926829268292684,33.5701406977472,820,Reflections on Consequences,Sharing negative emotions,True
+llama2-13b_single,24.87804878048781,43.25701655137094,820,Reflections on Consequences,Sharing negative emotions,False
+llama2-70b_single,20.73170731707317,40.56320495958268,820,Reflections on Consequences,Sharing negative emotions,False
+human_high,10.526315789473683,30.71300137877103,646,Reflections on Conflicts,Sharing negative emotions,
+human_low,6.321839080459771,24.405767466227704,174,Reflections on Conflicts,Sharing negative emotions,
+human_avg,8.424077434966726,29.52390318819182,820,Reflections on Conflicts,Sharing negative emotions,
+llama2-13b_all,8.617594254937163,28.0749717501447,1114,Reflections on Conflicts,Sharing negative emotions,False
+llama2-70b_all,8.414239482200648,27.771361321036853,1236,Reflections on Conflicts,Sharing negative emotions,False
+gpt_35_all,5.31496062992126,22.444221229515374,1016,Reflections on Conflicts,Sharing negative emotions,False
+gpt4_all,7.902163687676388,26.98995113662436,1063,Reflections on Conflicts,Sharing negative emotions,False
+gpt4_full,6.172839506172839,24.11583108346126,243,Reflections on Conflicts,Sharing negative emotions,False
+gpt_35_full,5.1020408163265305,22.06028560426893,196,Reflections on Conflicts,Sharing negative emotions,False
+llama2-13b_full,8.503401360544217,27.940789210432857,294,Reflections on Conflicts,Sharing negative emotions,False
+llama2-70b_full,4.807692307692308,21.418639297595888,416,Reflections on Conflicts,Sharing negative emotions,False
+gpt4_single,8.414634146341463,27.777658655451976,820,Reflections on Conflicts,Sharing negative emotions,False
+gpt_35_single,5.365853658536586,22.5480153498678,820,Reflections on Conflicts,Sharing negative emotions,False
+llama2-13b_single,8.658536585365853,28.139812940687342,820,Reflections on Conflicts,Sharing negative emotions,False
+llama2-70b_single,10.24390243902439,30.340984815917707,820,Reflections on Conflicts,Sharing negative emotions,False
+human_high,8.513931888544892,27.930516627694963,646,Reflections on Strengths,Sharing negative emotions,
+human_low,4.597701149425287,21.003968669921814,174,Reflections on Strengths,Sharing negative emotions,
+human_avg,6.55581651898509,26.64828947761105,820,Reflections on Strengths,Sharing negative emotions,
+llama2-13b_all,11.759425493716336,32.227174389349514,1114,Reflections on Strengths,Sharing negative emotions,True
+llama2-70b_all,17.79935275080906,38.26621261531908,1236,Reflections on Strengths,Sharing negative emotions,True
+gpt_35_all,17.224409448818896,37.77784210791683,1016,Reflections on Strengths,Sharing negative emotions,True
+gpt4_all,23.142050799623707,42.193902130021385,1063,Reflections on Strengths,Sharing negative emotions,True
+gpt4_full,41.56378600823045,49.38488414789615,243,Reflections on Strengths,Sharing negative emotions,True
+gpt_35_full,27.551020408163264,44.79151074535064,196,Reflections on Strengths,Sharing negative emotions,True
+llama2-13b_full,21.08843537414966,40.863198922900445,294,Reflections on Strengths,Sharing negative emotions,True
+llama2-70b_full,29.32692307692308,45.58089693026623,416,Reflections on Strengths,Sharing negative emotions,True
+gpt4_single,17.682926829268293,38.17570011584981,820,Reflections on Strengths,Sharing negative emotions,True
+gpt_35_single,14.75609756097561,35.48807121312156,820,Reflections on Strengths,Sharing negative emotions,True
+llama2-13b_single,8.414634146341463,27.777658655451976,820,Reflections on Strengths,Sharing negative emotions,False
+llama2-70b_single,11.951219512195122,32.458822392935446,820,Reflections on Strengths,Sharing negative emotions,True
+human_high,40.55727554179567,49.138301592734464,646,Questions on Experiences,Sharing negative emotions,
+human_low,28.735632183908045,45.383519142015125,174,Questions on Experiences,Sharing negative emotions,
+human_avg,34.64645386285186,48.580309360968144,820,Questions on Experiences,Sharing negative emotions,
+llama2-13b_all,34.91921005385996,47.692888529283465,1114,Questions on Experiences,Sharing negative emotions,False
+llama2-70b_all,32.92880258899677,47.01449285231342,1236,Questions on Experiences,Sharing negative emotions,False
+gpt_35_all,18.405511811023626,38.77199905185069,1016,Questions on Experiences,Sharing negative emotions,True
+gpt4_all,22.295390404515523,41.6423572861957,1063,Questions on Experiences,Sharing negative emotions,True
+gpt4_full,35.390946502057616,47.91684688307581,243,Questions on Experiences,Sharing negative emotions,False
+gpt_35_full,23.46938775510204,42.48926358061805,196,Questions on Experiences,Sharing negative emotions,False
+llama2-13b_full,52.04081632653061,50.04351383693027,294,Questions on Experiences,Sharing negative emotions,True
+llama2-70b_full,31.009615384615383,46.308966618240376,416,Questions on Experiences,Sharing negative emotions,False
+gpt4_single,18.414634146341463,38.78400511782589,820,Questions on Experiences,Sharing negative emotions,True
+gpt_35_single,17.195121951219512,37.7568336404696,820,Questions on Experiences,Sharing negative emotions,True
+llama2-13b_single,28.78048780487805,45.30160072055734,820,Questions on Experiences,Sharing negative emotions,False
+llama2-70b_single,33.90243902439025,47.36670385248012,820,Questions on Experiences,Sharing negative emotions,False
+human_high,4.798761609907121,21.39056660187636,646,Questions on Perspectives,Sharing negative emotions,
+human_low,1.7241379310344829,13.054522973352586,174,Questions on Perspectives,Sharing negative emotions,
+human_avg,3.261449770470802,19.948114597025956,820,Questions on Perspectives,Sharing negative emotions,
+llama2-13b_all,4.937163375224417,21.674003901815507,1114,Questions on Perspectives,Sharing negative emotions,False
+llama2-70b_all,5.58252427184466,22.967686903997198,1236,Questions on Perspectives,Sharing negative emotions,False
+gpt_35_all,0.7874015748031497,8.842913655096096,1016,Questions on Perspectives,Sharing negative emotions,True
+gpt4_all,3.292568203198494,17.85260881537715,1063,Questions on Perspectives,Sharing negative emotions,False
+gpt4_full,3.703703703703704,18.924236358783023,243,Questions on Perspectives,Sharing negative emotions,False
+gpt_35_full,0.5102040816326531,7.142857142857142,196,Questions on Perspectives,Sharing negative emotions,False
+llama2-13b_full,6.122448979591836,24.01504021315324,294,Questions on Perspectives,Sharing negative emotions,False
+llama2-70b_full,7.451923076923077,26.293021588335385,416,Questions on Perspectives,Sharing negative emotions,False
+gpt4_single,3.1707317073170733,17.53266957757585,820,Questions on Perspectives,Sharing negative emotions,False
+gpt_35_single,0.8536585365853658,9.205458315002208,820,Questions on Perspectives,Sharing negative emotions,False
+llama2-13b_single,4.512195121951219,20.76982637104241,820,Questions on Perspectives,Sharing negative emotions,False
+llama2-70b_single,4.634146341463414,21.035183153084454,820,Questions on Perspectives,Sharing negative emotions,False
+human_high,11.76470588235294,32.243940246603934,646,Questions on Emotions,Sharing negative emotions,
+human_low,7.471264367816093,26.368591879326715,174,Questions on Emotions,Sharing negative emotions,
+human_avg,9.617985125084516,31.124674243983414,820,Questions on Emotions,Sharing negative emotions,
+llama2-13b_all,4.488330341113106,20.714079492300183,1114,Questions on Emotions,Sharing negative emotions,True
+llama2-70b_all,3.236245954692557,17.70324465745786,1236,Questions on Emotions,Sharing negative emotions,True
+gpt_35_all,1.0826771653543308,10.353793484768346,1016,Questions on Emotions,Sharing negative emotions,True
+gpt4_all,1.599247412982126,12.550511105127695,1063,Questions on Emotions,Sharing negative emotions,True
+gpt4_full,0.823045267489712,9.053420646295455,243,Questions on Emotions,Sharing negative emotions,True
+gpt_35_full,1.530612244897959,12.30818287876322,196,Questions on Emotions,Sharing negative emotions,True
+llama2-13b_full,1.3605442176870748,11.604368706726612,294,Questions on Emotions,Sharing negative emotions,True
+llama2-70b_full,2.1634615384615383,14.56624953717463,416,Questions on Emotions,Sharing negative emotions,True
+gpt4_single,1.829268292682927,13.408947569508436,820,Questions on Emotions,Sharing negative emotions,True
+gpt_35_single,0.975609756097561,9.834994718725833,820,Questions on Emotions,Sharing negative emotions,True
+llama2-13b_single,5.609756097560975,23.025046667818355,820,Questions on Emotions,Sharing negative emotions,False
+llama2-70b_single,3.7804878048780486,19.08404673570561,820,Questions on Emotions,Sharing negative emotions,True
+human_high,12.074303405572756,32.60808939051827,646,Problem-Solving,Sharing negative emotions,
+human_low,25.86206896551724,43.91404436856673,174,Problem-Solving,Sharing negative emotions,
+human_avg,18.968186185545,35.72893472462867,820,Problem-Solving,Sharing negative emotions,
+llama2-13b_all,24.416517055655294,42.97840758446194,1114,Problem-Solving,Sharing negative emotions,False
+llama2-70b_all,33.17152103559871,47.10198804042887,1236,Problem-Solving,Sharing negative emotions,True
+gpt_35_all,35.531496062992126,47.88443592718866,1016,Problem-Solving,Sharing negative emotions,True
+gpt4_all,37.06491063029163,48.32059564444183,1063,Problem-Solving,Sharing negative emotions,True
+gpt4_full,42.79835390946502,49.5807680382491,243,Problem-Solving,Sharing negative emotions,True
+gpt_35_full,60.71428571428572,48.96361809993096,196,Problem-Solving,Sharing negative emotions,True
+llama2-13b_full,42.85714285714285,49.57154308632171,294,Problem-Solving,Sharing negative emotions,True
+llama2-70b_full,55.52884615384615,49.75321395070325,416,Problem-Solving,Sharing negative emotions,True
+gpt4_single,35.36585365853659,47.8396569431434,820,Problem-Solving,Sharing negative emotions,True
+gpt_35_single,29.51219512195122,45.637592387059705,820,Problem-Solving,Sharing negative emotions,True
+llama2-13b_single,17.804878048780488,38.27872811675742,820,Problem-Solving,Sharing negative emotions,False
+llama2-70b_single,21.82926829268293,41.33392557712566,820,Problem-Solving,Sharing negative emotions,False
+human_high,6.037151702786378,23.83584390829038,646,Planning,Sharing negative emotions,
+human_low,9.195402298850574,28.979498067059776,174,Planning,Sharing negative emotions,
+human_avg,7.616277000818476,25.030134612158392,820,Planning,Sharing negative emotions,
+llama2-13b_all,13.464991023339318,34.1502564143019,1114,Planning,Sharing negative emotions,True
+llama2-70b_all,19.25566343042071,39.44673249765747,1236,Planning,Sharing negative emotions,True
+gpt_35_all,12.79527559055118,33.42017056087655,1016,Planning,Sharing negative emotions,True
+gpt4_all,13.92285983066792,34.634786439912254,1063,Planning,Sharing negative emotions,True
+gpt4_full,17.695473251028808,38.24180704242608,243,Planning,Sharing negative emotions,True
+gpt_35_full,25.51020408163265,43.70348689907501,196,Planning,Sharing negative emotions,True
+llama2-13b_full,29.25170068027211,45.56941126272756,294,Planning,Sharing negative emotions,True
+llama2-70b_full,41.82692307692308,49.38688032362536,416,Planning,Sharing negative emotions,True
+gpt4_single,12.804878048780488,33.434804902403584,820,Planning,Sharing negative emotions,True
+gpt_35_single,9.75609756097561,29.690121598398854,820,Planning,Sharing negative emotions,False
+llama2-13b_single,7.804878048780488,26.841204917549625,820,Planning,Sharing negative emotions,False
+llama2-70b_single,7.804878048780488,26.841204917549625,820,Planning,Sharing negative emotions,False
+human_high,14.705882352941178,35.44389862642656,646,Normalizing,Sharing negative emotions,
+human_low,18.39080459770115,38.85272513242705,174,Normalizing,Sharing negative emotions,
+human_avg,16.54834347532116,36.20091941655823,820,Normalizing,Sharing negative emotions,
+llama2-13b_all,14.272890484739676,34.99532816070099,1114,Normalizing,Sharing negative emotions,False
+llama2-70b_all,12.944983818770227,33.58330338599115,1236,Normalizing,Sharing negative emotions,False
+gpt_35_all,30.31496062992126,45.98456811826146,1016,Normalizing,Sharing negative emotions,True
+gpt4_all,23.047977422389465,42.1338168770015,1063,Normalizing,Sharing negative emotions,True
+gpt4_full,33.74485596707819,47.381526069616775,243,Normalizing,Sharing negative emotions,True
+gpt_35_full,42.85714285714285,49.61389383568342,196,Normalizing,Sharing negative emotions,True
+llama2-13b_full,17.346938775510203,37.92981718322084,294,Normalizing,Sharing negative emotions,False
+llama2-70b_full,19.471153846153847,39.64552737186307,416,Normalizing,Sharing negative emotions,False
+gpt4_single,19.87804878048781,39.932602023519664,820,Normalizing,Sharing negative emotions,False
+gpt_35_single,27.317073170731707,44.58597436257649,820,Normalizing,Sharing negative emotions,True
+llama2-13b_single,13.170731707317072,33.8378684335064,820,Normalizing,Sharing negative emotions,False
+llama2-70b_single,9.634146341463415,29.523903188192072,820,Normalizing,Sharing negative emotions,True
+human_high,2.0123839009287927,14.0532707952505,646,Psychoeducation,Sharing negative emotions,
+human_low,7.471264367816093,26.368591879326715,174,Psychoeducation,Sharing negative emotions,
+human_avg,4.741824134372443,17.532669577576183,820,Psychoeducation,Sharing negative emotions,
+llama2-13b_all,2.96229802513465,16.962100783754725,1114,Psychoeducation,Sharing negative emotions,False
+llama2-70b_all,6.310679611650485,24.32533706869017,1236,Psychoeducation,Sharing negative emotions,False
+gpt_35_all,10.33464566929134,30.456077078431072,1016,Psychoeducation,Sharing negative emotions,True
+gpt4_all,4.51552210724365,20.774221084367515,1063,Psychoeducation,Sharing negative emotions,False
+gpt4_full,10.2880658436214,30.442998855261155,243,Psychoeducation,Sharing negative emotions,True
+gpt_35_full,10.714285714285714,31.00868364730212,196,Psychoeducation,Sharing negative emotions,True
+llama2-13b_full,8.16326530612245,27.427108688446744,294,Psychoeducation,Sharing negative emotions,False
+llama2-70b_full,16.10576923076923,36.80267624350117,416,Psychoeducation,Sharing negative emotions,True
+gpt4_single,2.804878048780488,16.52129940195213,820,Psychoeducation,Sharing negative emotions,False
+gpt_35_single,10.24390243902439,30.340984815917707,820,Psychoeducation,Sharing negative emotions,True
+llama2-13b_single,1.0975609756097562,10.425161817828124,820,Psychoeducation,Sharing negative emotions,True
+llama2-70b_single,1.3414634146341464,11.511229864624278,820,Psychoeducation,Sharing negative emotions,True
+human_high,24.336283185840703,43.00648232678269,226,Reflections on Needs,Sharing positive emotions,
+human_low,10.294117647058822,30.614141120130565,68,Reflections on Needs,Sharing positive emotions,
+human_avg,17.315200416449763,40.86319892290049,294,Reflections on Needs,Sharing positive emotions,
+llama2-13b_all,16.666666666666668,37.302743654825385,534,Reflections on Needs,Sharing positive emotions,False
+llama2-70b_all,20.58823529411765,40.48413477372265,408,Reflections on Needs,Sharing positive emotions,False
+gpt_35_all,17.870036101083034,38.344744438299095,554,Reflections on Needs,Sharing positive emotions,False
+gpt4_all,12.917933130699089,33.56534707379408,658,Reflections on Needs,Sharing positive emotions,False
+gpt4_full,4.395604395604396,20.52795131115496,364,Reflections on Needs,Sharing positive emotions,True
+gpt_35_full,17.307692307692307,37.9043392864054,260,Reflections on Needs,Sharing positive emotions,False
+llama2-13b_full,5.833333333333333,23.48624927825621,240,Reflections on Needs,Sharing positive emotions,True
+llama2-70b_full,11.403508771929824,31.925721119428093,114,Reflections on Needs,Sharing positive emotions,False
+gpt4_single,23.46938775510204,42.452994462970736,294,Reflections on Needs,Sharing positive emotions,False
+gpt_35_single,18.367346938775512,38.78778908388232,294,Reflections on Needs,Sharing positive emotions,False
+llama2-13b_single,25.51020408163265,43.66618131233703,294,Reflections on Needs,Sharing positive emotions,False
+llama2-70b_single,24.14965986394558,42.87203815045437,294,Reflections on Needs,Sharing positive emotions,False
+human_high,15.04424778761062,35.82981734825682,226,Reflections on Emotions,Sharing positive emotions,
+human_low,0.0,0.0,68,Reflections on Emotions,Sharing positive emotions,
+human_avg,7.52212389380531,32.034552170971395,294,Reflections on Emotions,Sharing positive emotions,
+llama2-13b_all,5.805243445692884,23.40618354975108,534,Reflections on Emotions,Sharing positive emotions,False
+llama2-70b_all,5.637254901960785,23.09228966727579,408,Reflections on Emotions,Sharing positive emotions,False
+gpt_35_all,8.12274368231047,27.343096805421855,554,Reflections on Emotions,Sharing positive emotions,False
+gpt4_all,5.319148936170213,22.45858623042456,658,Reflections on Emotions,Sharing positive emotions,False
+gpt4_full,3.571428571428572,18.58323119643401,364,Reflections on Emotions,Sharing positive emotions,False
+gpt_35_full,3.076923076923077,17.302494021854173,260,Reflections on Emotions,Sharing positive emotions,False
+llama2-13b_full,2.5,15.645123025306878,240,Reflections on Emotions,Sharing positive emotions,False
+llama2-70b_full,1.7543859649122806,13.18658570441865,114,Reflections on Emotions,Sharing positive emotions,False
+gpt4_single,7.482993197278912,26.35653515309636,294,Reflections on Emotions,Sharing positive emotions,False
+gpt_35_single,12.585034013605442,33.224614325794896,294,Reflections on Emotions,Sharing positive emotions,False
+llama2-13b_single,8.503401360544217,27.940789210432857,294,Reflections on Emotions,Sharing positive emotions,False
+llama2-70b_single,7.142857142857143,25.79784894596656,294,Reflections on Emotions,Sharing positive emotions,False
+human_high,5.3097345132743365,22.472533218632307,226,Reflections on Values,Sharing positive emotions,
+human_low,1.4705882352941175,12.126781251816668,68,Reflections on Values,Sharing positive emotions,
+human_avg,3.390161374284227,20.59289289576927,294,Reflections on Values,Sharing positive emotions,
+llama2-13b_all,6.367041198501872,24.43938244910469,534,Reflections on Values,Sharing positive emotions,False
+llama2-70b_all,5.147058823529412,22.122685415686902,408,Reflections on Values,Sharing positive emotions,False
+gpt_35_all,3.9711191335740073,19.545631586520265,554,Reflections on Values,Sharing positive emotions,False
+gpt4_all,2.8875379939209727,16.75836317768097,658,Reflections on Values,Sharing positive emotions,False
+gpt4_full,0.8241758241758241,9.053369044416566,364,Reflections on Values,Sharing positive emotions,False
+gpt_35_full,1.9230769230769231,13.760003246281936,260,Reflections on Values,Sharing positive emotions,False
+llama2-13b_full,3.75,19.038059216862678,240,Reflections on Values,Sharing positive emotions,False
+llama2-70b_full,2.631578947368421,16.077942433131568,114,Reflections on Values,Sharing positive emotions,False
+gpt4_single,5.442176870748299,22.723483741138768,294,Reflections on Values,Sharing positive emotions,False
+gpt_35_single,5.782312925170068,23.38066556531636,294,Reflections on Values,Sharing positive emotions,False
+llama2-13b_single,8.503401360544217,27.940789210432857,294,Reflections on Values,Sharing positive emotions,False
+llama2-70b_single,6.122448979591836,24.01504021315324,294,Reflections on Values,Sharing positive emotions,False
+human_high,11.061946902654867,31.435657937611406,226,Reflections on Consequences,Sharing positive emotions,
+human_low,20.588235294117645,40.73512375440994,68,Reflections on Consequences,Sharing positive emotions,
+human_avg,15.825091098386256,33.97777360855247,294,Reflections on Consequences,Sharing positive emotions,
+llama2-13b_all,7.865168539325842,26.944675865117247,534,Reflections on Consequences,Sharing positive emotions,True
+llama2-70b_all,14.215686274509803,34.96396950655974,408,Reflections on Consequences,Sharing positive emotions,False
+gpt_35_all,5.234657039711191,22.29262459570397,554,Reflections on Consequences,Sharing positive emotions,True
+gpt4_all,6.231003039513678,24.19016768000165,658,Reflections on Consequences,Sharing positive emotions,True
+gpt4_full,0.8241758241758241,9.053369044416566,364,Reflections on Consequences,Sharing positive emotions,True
+gpt_35_full,1.5384615384615383,12.331429441234786,260,Reflections on Consequences,Sharing positive emotions,True
+llama2-13b_full,0.8333333333333334,9.10959155497467,240,Reflections on Consequences,Sharing positive emotions,True
+llama2-70b_full,7.017543859649122,25.65702389853347,114,Reflections on Consequences,Sharing positive emotions,False
+gpt4_single,12.92517006802721,33.605031403593536,294,Reflections on Consequences,Sharing positive emotions,False
+gpt_35_single,8.503401360544217,27.940789210432857,294,Reflections on Consequences,Sharing positive emotions,False
+llama2-13b_single,13.605442176870747,34.343090838920794,294,Reflections on Consequences,Sharing positive emotions,False
+llama2-70b_single,17.006802721088434,37.63331190805749,294,Reflections on Consequences,Sharing positive emotions,False
+human_high,5.3097345132743365,22.472533218632307,226,Reflections on Conflicts,Sharing positive emotions,
+human_low,1.4705882352941175,12.126781251816668,68,Reflections on Conflicts,Sharing positive emotions,
+human_avg,3.390161374284227,20.59289289576927,294,Reflections on Conflicts,Sharing positive emotions,
+llama2-13b_all,1.8726591760299625,13.568486611926554,534,Reflections on Conflicts,Sharing positive emotions,False
+llama2-70b_all,4.901960784313726,21.61740576521877,408,Reflections on Conflicts,Sharing positive emotions,False
+gpt_35_all,1.985559566787004,13.963002293553876,554,Reflections on Conflicts,Sharing positive emotions,False
+gpt4_all,1.82370820668693,13.39094574453171,658,Reflections on Conflicts,Sharing positive emotions,False
+gpt4_full,0.0,0.0,364,Reflections on Conflicts,Sharing positive emotions,False
+gpt_35_full,0.0,0.0,260,Reflections on Conflicts,Sharing positive emotions,False
+llama2-13b_full,0.0,0.0,240,Reflections on Conflicts,Sharing positive emotions,False
+llama2-70b_full,1.7543859649122806,13.18658570441865,114,Reflections on Conflicts,Sharing positive emotions,False
+gpt4_single,4.081632653061225,19.82018490702231,294,Reflections on Conflicts,Sharing positive emotions,False
+gpt_35_single,3.741496598639456,19.009998603348336,294,Reflections on Conflicts,Sharing positive emotions,False
+llama2-13b_single,3.401360544217687,18.1573177883982,294,Reflections on Conflicts,Sharing positive emotions,False
+llama2-70b_single,6.122448979591836,24.01504021315324,294,Reflections on Conflicts,Sharing positive emotions,False
+human_high,15.929203539823009,36.67605136001983,226,Reflections on Strengths,Sharing positive emotions,
+human_low,4.411764705882353,20.688330616678687,68,Reflections on Strengths,Sharing positive emotions,
+human_avg,10.17048412285268,33.97777360855247,294,Reflections on Strengths,Sharing positive emotions,
+llama2-13b_all,39.325842696629216,48.89313889202082,534,Reflections on Strengths,Sharing positive emotions,True
+llama2-70b_all,29.166666666666668,45.50877191320736,408,Reflections on Strengths,Sharing positive emotions,True
+gpt_35_all,52.34657039711191,49.99004346588509,554,Reflections on Strengths,Sharing positive emotions,True
+gpt4_all,66.10942249240122,47.36978661861458,658,Reflections on Strengths,Sharing positive emotions,True
+gpt4_full,97.8021978021978,14.681349860412867,364,Reflections on Strengths,Sharing positive emotions,True
+gpt_35_full,83.84615384615384,36.87366756463699,260,Reflections on Strengths,Sharing positive emotions,True
+llama2-13b_full,67.08333333333333,47.08926506370521,240,Reflections on Strengths,Sharing positive emotions,True
+llama2-70b_full,58.77192982456141,49.44184661036464,114,Reflections on Strengths,Sharing positive emotions,True
+gpt4_single,26.87074829931973,44.4043278198305,294,Reflections on Strengths,Sharing positive emotions,True
+gpt_35_single,24.489795918367346,43.07598926493444,294,Reflections on Strengths,Sharing positive emotions,True
+llama2-13b_single,16.666666666666668,37.33134238149696,294,Reflections on Strengths,Sharing positive emotions,False
+llama2-70b_single,17.687074829931973,38.22098537655446,294,Reflections on Strengths,Sharing positive emotions,False
+human_high,36.72566371681416,48.31273083431135,226,Questions on Experiences,Sharing positive emotions,
+human_low,26.47058823529412,44.44566382094696,68,Questions on Experiences,Sharing positive emotions,
+human_avg,31.598125976054146,47.56985920438252,294,Questions on Experiences,Sharing positive emotions,
+llama2-13b_all,15.730337078651685,36.442794065298976,534,Questions on Experiences,Sharing positive emotions,True
+llama2-70b_all,24.264705882352946,42.92097222705629,408,Questions on Experiences,Sharing positive emotions,False
+gpt_35_all,10.649819494584838,30.87529794958255,554,Questions on Experiences,Sharing positive emotions,True
+gpt4_all,7.90273556231003,26.998668862727097,658,Questions on Experiences,Sharing positive emotions,True
+gpt4_full,0.2747252747252747,5.241424183609592,364,Questions on Experiences,Sharing positive emotions,True
+gpt_35_full,0.3846153846153846,6.201736729460423,260,Questions on Experiences,Sharing positive emotions,True
+llama2-13b_full,7.5,26.394179655091992,240,Questions on Experiences,Sharing positive emotions,True
+llama2-70b_full,10.526315789473683,30.82471440524439,114,Questions on Experiences,Sharing positive emotions,True
+gpt4_single,17.346938775510203,37.92981718322084,294,Questions on Experiences,Sharing positive emotions,True
+gpt_35_single,19.727891156462587,39.86231556700567,294,Questions on Experiences,Sharing positive emotions,False
+llama2-13b_single,22.448979591836736,41.7957300876863,294,Questions on Experiences,Sharing positive emotions,False
+llama2-70b_single,29.59183673469388,45.72327434789315,294,Questions on Experiences,Sharing positive emotions,False
+human_high,2.6548672566371683,16.111704461321587,226,Questions on Perspectives,Sharing positive emotions,
+human_low,0.0,0.0,68,Questions on Perspectives,Sharing positive emotions,
+human_avg,1.327433628318584,14.163298024663268,294,Questions on Perspectives,Sharing positive emotions,
+llama2-13b_all,3.3707865168539324,18.064538472502065,534,Questions on Perspectives,Sharing positive emotions,False
+llama2-70b_all,3.92156862745098,19.434605916140217,408,Questions on Perspectives,Sharing positive emotions,False
+gpt_35_all,0.7220216606498195,8.474106004658642,554,Questions on Perspectives,Sharing positive emotions,False
+gpt4_all,2.127659574468085,14.441467257645437,658,Questions on Perspectives,Sharing positive emotions,False
+gpt4_full,0.2747252747252747,5.241424183609592,364,Questions on Perspectives,Sharing positive emotions,False
+gpt_35_full,0.3846153846153846,6.201736729460423,260,Questions on Perspectives,Sharing positive emotions,False
+llama2-13b_full,2.9166666666666665,16.862517336816857,240,Questions on Perspectives,Sharing positive emotions,False
+llama2-70b_full,5.2631578947368425,22.428274124527217,114,Questions on Perspectives,Sharing positive emotions,False
+gpt4_single,4.421768707482993,20.59289289576936,294,Questions on Perspectives,Sharing positive emotions,False
+gpt_35_single,1.020408163265306,10.066990214706918,294,Questions on Perspectives,Sharing positive emotions,False
+llama2-13b_single,3.741496598639456,19.009998603348336,294,Questions on Perspectives,Sharing positive emotions,False
+llama2-70b_single,3.401360544217687,18.1573177883982,294,Questions on Perspectives,Sharing positive emotions,False
+human_high,10.619469026548671,30.87705184086541,226,Questions on Emotions,Sharing positive emotions,
+human_low,4.411764705882353,20.688330616678687,68,Questions on Emotions,Sharing positive emotions,
+human_avg,7.515616866215512,28.928774580791707,294,Questions on Emotions,Sharing positive emotions,
+llama2-13b_all,3.5580524344569286,18.541556205421937,534,Questions on Emotions,Sharing positive emotions,False
+llama2-70b_all,4.901960784313726,21.61740576521877,408,Questions on Emotions,Sharing positive emotions,False
+gpt_35_all,0.5415162454873647,7.345459672841543,554,Questions on Emotions,Sharing positive emotions,True
+gpt4_all,0.4559270516717325,6.741951838175481,658,Questions on Emotions,Sharing positive emotions,True
+gpt4_full,0.0,0.0,364,Questions on Emotions,Sharing positive emotions,True
+gpt_35_full,0.0,0.0,260,Questions on Emotions,Sharing positive emotions,True
+llama2-13b_full,1.25,11.133461945657222,240,Questions on Emotions,Sharing positive emotions,False
+llama2-70b_full,1.7543859649122806,13.18658570441865,114,Questions on Emotions,Sharing positive emotions,False
+gpt4_single,1.020408163265306,10.066990214706918,294,Questions on Emotions,Sharing positive emotions,True
+gpt_35_single,1.020408163265306,10.066990214706918,294,Questions on Emotions,Sharing positive emotions,True
+llama2-13b_single,5.442176870748299,22.723483741138768,294,Questions on Emotions,Sharing positive emotions,False
+llama2-70b_single,6.122448979591836,24.01504021315324,294,Questions on Emotions,Sharing positive emotions,False
+human_high,12.831858407079649,33.51865885804624,226,Problem-Solving,Sharing positive emotions,
+human_low,13.23529411764706,34.139362166946405,68,Problem-Solving,Sharing positive emotions,
+human_avg,13.033576262363354,33.60503140359335,294,Problem-Solving,Sharing positive emotions,
+llama2-13b_all,14.232209737827716,34.970778634953426,534,Problem-Solving,Sharing positive emotions,False
+llama2-70b_all,25.980392156862745,43.90653024746572,408,Problem-Solving,Sharing positive emotions,True
+gpt_35_all,23.104693140794225,42.18833018708353,554,Problem-Solving,Sharing positive emotions,True
+gpt4_all,19.75683890577508,39.846759247956186,658,Problem-Solving,Sharing positive emotions,False
+gpt4_full,15.10989010989011,35.863822805353365,364,Problem-Solving,Sharing positive emotions,False
+gpt_35_full,22.307692307692307,41.71124236734915,260,Problem-Solving,Sharing positive emotions,False
+llama2-13b_full,14.166666666666666,34.94366855534775,240,Problem-Solving,Sharing positive emotions,False
+llama2-70b_full,40.35087719298246,49.27671234726095,114,Problem-Solving,Sharing positive emotions,True
+gpt4_single,25.51020408163265,43.66618131233703,294,Problem-Solving,Sharing positive emotions,True
+gpt_35_single,23.80952380952381,42.66439129313942,294,Problem-Solving,Sharing positive emotions,False
+llama2-13b_single,14.285714285714286,35.052374270219154,294,Problem-Solving,Sharing positive emotions,False
+llama2-70b_single,20.40816326530612,40.3716108651907,294,Problem-Solving,Sharing positive emotions,False
+human_high,7.52212389380531,26.43334505090352,226,Planning,Sharing positive emotions,
+human_low,8.823529411764707,28.574563981980848,68,Planning,Sharing positive emotions,
+human_avg,8.172826652785009,26.899306785356604,294,Planning,Sharing positive emotions,
+llama2-13b_all,25.093632958801496,43.395846247997895,534,Planning,Sharing positive emotions,True
+llama2-70b_all,32.59803921568628,46.93154820881244,408,Planning,Sharing positive emotions,True
+gpt_35_all,39.35018050541516,48.89679992971936,554,Planning,Sharing positive emotions,True
+gpt4_all,47.87234042553192,49.99271296359876,658,Planning,Sharing positive emotions,True
+gpt4_full,67.58241758241758,46.87103599319968,364,Planning,Sharing positive emotions,True
+gpt_35_full,62.69230769230769,48.45550379405656,260,Planning,Sharing positive emotions,True
+llama2-13b_full,38.75,48.81975215869925,240,Planning,Sharing positive emotions,True
+llama2-70b_full,73.6842105263158,44.22915303931058,114,Planning,Sharing positive emotions,True
+gpt4_single,23.46938775510204,42.452994462970736,294,Planning,Sharing positive emotions,True
+gpt_35_single,18.70748299319728,39.0636499737858,294,Planning,Sharing positive emotions,True
+llama2-13b_single,13.945578231292515,34.70121759485582,294,Planning,Sharing positive emotions,False
+llama2-70b_single,16.666666666666668,37.33134238149696,294,Planning,Sharing positive emotions,False
+human_high,19.02654867256637,39.338182791897154,226,Normalizing,Sharing positive emotions,
+human_low,26.47058823529412,44.44566382094696,68,Normalizing,Sharing positive emotions,
+human_avg,22.748568453930247,40.61957757562305,294,Normalizing,Sharing positive emotions,
+llama2-13b_all,29.026217228464414,45.43088751345728,534,Normalizing,Sharing positive emotions,False
+llama2-70b_all,12.5,33.1124953218169,408,Normalizing,Sharing positive emotions,True
+gpt_35_all,42.59927797833935,49.493949795762894,554,Normalizing,Sharing positive emotions,True
+gpt4_all,58.96656534954408,49.22685758318829,658,Normalizing,Sharing positive emotions,True
+gpt4_full,92.85714285714286,25.789387027889816,364,Normalizing,Sharing positive emotions,True
+gpt_35_full,76.15384615384616,42.69646148087487,260,Normalizing,Sharing positive emotions,True
+llama2-13b_full,47.91666666666666,50.06098094434612,240,Normalizing,Sharing positive emotions,True
+llama2-70b_full,27.19298245614035,44.69184107063473,114,Normalizing,Sharing positive emotions,False
+gpt4_single,17.006802721088434,37.63331190805749,294,Normalizing,Sharing positive emotions,False
+gpt_35_single,12.92517006802721,33.605031403593536,294,Normalizing,Sharing positive emotions,False
+llama2-13b_single,13.605442176870747,34.343090838920794,294,Normalizing,Sharing positive emotions,False
+llama2-70b_single,6.802721088435374,25.222190634840512,294,Normalizing,Sharing positive emotions,True
+human_high,1.7699115044247788,13.21481246316342,226,Psychoeducation,Sharing positive emotions,
+human_low,4.411764705882353,20.688330616678687,68,Psychoeducation,Sharing positive emotions,
+human_avg,3.090838105153566,15.271528007719605,294,Psychoeducation,Sharing positive emotions,
+llama2-13b_all,4.681647940074907,21.14436574853256,534,Psychoeducation,Sharing positive emotions,False
+llama2-70b_all,5.637254901960785,23.092289667275796,408,Psychoeducation,Sharing positive emotions,False
+gpt_35_all,7.40072202166065,26.20192281057652,554,Psychoeducation,Sharing positive emotions,False
+gpt4_all,4.25531914893617,20.200106483699084,658,Psychoeducation,Sharing positive emotions,False
+gpt4_full,4.945054945054945,21.710523599931875,364,Psychoeducation,Sharing positive emotions,False
+gpt_35_full,3.8461538461538463,19.267858501929357,260,Psychoeducation,Sharing positive emotions,False
+llama2-13b_full,8.75,28.31568898469229,240,Psychoeducation,Sharing positive emotions,False
+llama2-70b_full,18.42105263157895,38.93672987547151,114,Psychoeducation,Sharing positive emotions,True
+gpt4_single,3.401360544217687,18.1573177883982,294,Psychoeducation,Sharing positive emotions,False
+gpt_35_single,10.54421768707483,30.764598087103035,294,Psychoeducation,Sharing positive emotions,True
+llama2-13b_single,1.3605442176870748,11.604368706726612,294,Psychoeducation,Sharing positive emotions,False
+llama2-70b_single,0.6802721088435374,8.233774110526623,294,Psychoeducation,Sharing positive emotions,False
+human_high,28.971962616822427,45.46958080178076,214,Reflections on Needs,Gained Insight,
+human_low,25.0,43.80187953915666,44,Reflections on Needs,Gained Insight,
+human_avg,26.98598130841121,45.13057632976156,258,Reflections on Needs,Gained Insight,
+llama2-13b_all,22.88329519450801,42.05629277045048,437,Reflections on Needs,Gained Insight,False
+llama2-70b_all,27.906976744186046,44.90643676690104,430,Reflections on Needs,Gained Insight,False
+gpt_35_all,29.315068493150687,45.58317982881122,365,Reflections on Needs,Gained Insight,False
+gpt4_all,28.0,44.94986070866389,450,Reflections on Needs,Gained Insight,False
+gpt4_full,19.27083333333333,39.54571327015576,192,Reflections on Needs,Gained Insight,False
+gpt_35_full,34.57943925233645,47.786482138302375,107,Reflections on Needs,Gained Insight,False
+llama2-13b_full,13.40782122905028,34.16921120928152,179,Reflections on Needs,Gained Insight,False
+llama2-70b_full,17.441860465116278,38.05769847077851,172,Reflections on Needs,Gained Insight,False
+gpt4_single,34.49612403100775,47.62795569732904,258,Reflections on Needs,Gained Insight,False
+gpt_35_single,27.131782945736436,44.55039202401653,258,Reflections on Needs,Gained Insight,False
+llama2-13b_single,29.45736434108527,45.67368743341808,258,Reflections on Needs,Gained Insight,False
+llama2-70b_single,34.88372093023256,47.75287029195488,258,Reflections on Needs,Gained Insight,False
+human_high,15.887850467289718,36.64198753829909,214,Reflections on Emotions,Gained Insight,
+human_low,9.090909090909092,29.080336345115256,44,Reflections on Emotions,Gained Insight,
+human_avg,12.489379779099403,35.50804193188277,258,Reflections on Emotions,Gained Insight,
+llama2-13b_all,6.864988558352403,25.31476317665717,437,Reflections on Emotions,Gained Insight,False
+llama2-70b_all,10.465116279069768,30.64599650799106,430,Reflections on Emotions,Gained Insight,False
+gpt_35_all,11.780821917808218,32.28234240557408,365,Reflections on Emotions,Gained Insight,False
+gpt4_all,9.11111111111111,28.80873276274404,450,Reflections on Emotions,Gained Insight,False
+gpt4_full,3.125,17.444751982408597,192,Reflections on Emotions,Gained Insight,False
+gpt_35_full,2.803738317757009,16.585649202791135,107,Reflections on Emotions,Gained Insight,False
+llama2-13b_full,2.23463687150838,14.82219434606649,179,Reflections on Emotions,Gained Insight,True
+llama2-70b_full,2.9069767441860463,16.84926493406076,172,Reflections on Emotions,Gained Insight,False
+gpt4_single,13.565891472868216,34.30915635094322,258,Reflections on Emotions,Gained Insight,False
+gpt_35_single,15.503875968992247,36.26451117705336,258,Reflections on Emotions,Gained Insight,False
+llama2-13b_single,10.07751937984496,30.161591367541945,258,Reflections on Emotions,Gained Insight,False
+llama2-70b_single,15.503875968992247,36.26451117705336,258,Reflections on Emotions,Gained Insight,False
+human_high,9.345794392523365,29.17555823274474,214,Reflections on Values,Gained Insight,
+human_low,6.8181818181818175,25.49717059293526,44,Reflections on Values,Gained Insight,
+human_avg,8.081988105352591,28.55100726217639,258,Reflections on Values,Gained Insight,
+llama2-13b_all,7.780320366132723,26.816865788581943,437,Reflections on Values,Gained Insight,False
+llama2-70b_all,6.744186046511628,25.107779813133416,430,Reflections on Values,Gained Insight,False
+gpt_35_all,8.767123287671232,28.32043904675023,365,Reflections on Values,Gained Insight,False
+gpt4_all,5.555555555555555,22.931636131325075,450,Reflections on Values,Gained Insight,False
+gpt4_full,5.729166666666667,23.30066586319824,192,Reflections on Values,Gained Insight,False
+gpt_35_full,7.4766355140186915,26.425168746678324,107,Reflections on Values,Gained Insight,False
+llama2-13b_full,7.262569832402234,26.02490803639237,179,Reflections on Values,Gained Insight,False
+llama2-70b_full,6.395348837209302,24.53844296035379,172,Reflections on Values,Gained Insight,False
+gpt4_single,5.426356589147287,22.697734744890123,258,Reflections on Values,Gained Insight,False
+gpt_35_single,9.30232558139535,29.102958158217422,258,Reflections on Values,Gained Insight,False
+llama2-13b_single,8.13953488372093,27.39727731823156,258,Reflections on Values,Gained Insight,False
+llama2-70b_single,6.976744186046512,25.52498283822152,258,Reflections on Values,Gained Insight,False
+human_high,14.95327102803738,35.74489245567787,214,Reflections on Consequences,Gained Insight,
+human_low,22.727272727272727,42.39151057857212,44,Reflections on Consequences,Gained Insight,
+human_avg,18.84027187765505,36.98921427486904,258,Reflections on Consequences,Gained Insight,
+llama2-13b_all,14.874141876430206,35.624123288848665,437,Reflections on Consequences,Gained Insight,False
+llama2-70b_all,15.813953488372093,36.52967999399984,430,Reflections on Consequences,Gained Insight,False
+gpt_35_all,12.602739726027398,33.233580481106145,365,Reflections on Consequences,Gained Insight,False
+gpt4_all,18.22222222222222,38.64572046129784,450,Reflections on Consequences,Gained Insight,False
+gpt4_full,9.375,29.22426374817741,192,Reflections on Consequences,Gained Insight,False
+gpt_35_full,12.149532710280374,32.82394539492495,107,Reflections on Consequences,Gained Insight,False
+llama2-13b_full,2.23463687150838,14.82219434606649,179,Reflections on Consequences,Gained Insight,True
+llama2-70b_full,1.744186046511628,13.129303902760125,172,Reflections on Consequences,Gained Insight,True
+gpt4_single,24.8062015503876,43.27274418622761,258,Reflections on Consequences,Gained Insight,False
+gpt_35_single,12.790697674418604,33.4635348126475,258,Reflections on Consequences,Gained Insight,False
+llama2-13b_single,23.643410852713178,42.57176105921254,258,Reflections on Consequences,Gained Insight,False
+llama2-70b_single,25.1937984496124,43.4969612998998,258,Reflections on Consequences,Gained Insight,False
+human_high,5.607476635514018,23.060547782419896,214,Reflections on Conflicts,Gained Insight,
+human_low,2.272727272727273,15.075567228888168,44,Reflections on Conflicts,Gained Insight,
+human_avg,3.940101954120646,21.916858497361936,258,Reflections on Conflicts,Gained Insight,
+llama2-13b_all,4.805491990846682,21.412745219664213,437,Reflections on Conflicts,Gained Insight,False
+llama2-70b_all,6.27906976744186,24.2868690542165,430,Reflections on Conflicts,Gained Insight,False
+gpt_35_all,3.835616438356164,19.231822942680985,365,Reflections on Conflicts,Gained Insight,False
+gpt4_all,4.222222222222222,20.131957651491945,450,Reflections on Conflicts,Gained Insight,False
+gpt4_full,1.0416666666666667,10.179454378723674,192,Reflections on Conflicts,Gained Insight,False
+gpt_35_full,1.8691588785046729,13.607076483136108,107,Reflections on Conflicts,Gained Insight,False
+llama2-13b_full,0.5586592178770949,7.4743509275193585,179,Reflections on Conflicts,Gained Insight,False
+llama2-70b_full,1.744186046511628,13.129303902760125,172,Reflections on Conflicts,Gained Insight,False
+gpt4_single,6.589147286821706,24.85744958856924,258,Reflections on Conflicts,Gained Insight,False
+gpt_35_single,4.651162790697675,21.099966312987178,258,Reflections on Conflicts,Gained Insight,False
+llama2-13b_single,7.751937984496124,26.79335274080897,258,Reflections on Conflicts,Gained Insight,False
+llama2-70b_single,9.30232558139535,29.102958158217422,258,Reflections on Conflicts,Gained Insight,False
+human_high,15.887850467289718,36.64198753829909,214,Reflections on Strengths,Gained Insight,
+human_low,9.090909090909092,29.080336345115256,44,Reflections on Strengths,Gained Insight,
+human_avg,12.489379779099403,35.50804193188277,258,Reflections on Strengths,Gained Insight,
+llama2-13b_all,32.723112128146454,46.97401918471387,437,Reflections on Strengths,Gained Insight,True
+llama2-70b_all,31.3953488372093,46.46383135304196,430,Reflections on Strengths,Gained Insight,True
+gpt_35_all,36.43835616438356,48.19174907190083,365,Reflections on Strengths,Gained Insight,True
+gpt4_all,51.333333333333336,50.03784759096617,450,Reflections on Strengths,Gained Insight,True
+gpt4_full,82.8125,37.82580977080007,192,Reflections on Strengths,Gained Insight,True
+gpt_35_full,58.87850467289719,49.436963918878455,107,Reflections on Strengths,Gained Insight,True
+llama2-13b_full,56.98324022346369,49.64882008174408,179,Reflections on Strengths,Gained Insight,True
+llama2-70b_full,51.74418604651163,50.11546575180908,172,Reflections on Strengths,Gained Insight,True
+gpt4_single,27.906976744186046,44.94136982295556,258,Reflections on Strengths,Gained Insight,True
+gpt_35_single,27.131782945736436,44.55039202401653,258,Reflections on Strengths,Gained Insight,True
+llama2-13b_single,15.891472868217054,36.63071372094033,258,Reflections on Strengths,Gained Insight,False
+llama2-70b_single,17.829457364341085,38.35044711938738,258,Reflections on Strengths,Gained Insight,False
+human_high,42.5233644859813,49.55375433717173,214,Questions on Experiences,Gained Insight,
+human_low,15.909090909090908,36.99894290244681,44,Questions on Experiences,Gained Insight,
+human_avg,29.2162276975361,48.62914283650906,258,Questions on Experiences,Gained Insight,
+llama2-13b_all,17.391304347826086,37.94691145995702,437,Questions on Experiences,Gained Insight,True
+llama2-70b_all,24.65116279069768,43.14818815241158,430,Questions on Experiences,Gained Insight,False
+gpt_35_all,16.164383561643834,36.86290822370937,365,Questions on Experiences,Gained Insight,True
+gpt4_all,13.11111111111111,33.78974833146705,450,Questions on Experiences,Gained Insight,True
+gpt4_full,8.333333333333334,27.710797663642293,192,Questions on Experiences,Gained Insight,True
+gpt_35_full,10.280373831775702,30.51315657855203,107,Questions on Experiences,Gained Insight,True
+llama2-13b_full,7.82122905027933,26.925853176222027,179,Questions on Experiences,Gained Insight,True
+llama2-70b_full,16.27906976744186,37.02524858860148,172,Questions on Experiences,Gained Insight,False
+gpt4_single,16.666666666666668,37.34023467803377,258,Questions on Experiences,Gained Insight,False
+gpt_35_single,18.6046511627907,38.99005532286628,258,Questions on Experiences,Gained Insight,False
+llama2-13b_single,24.031007751937985,42.81022060309365,258,Questions on Experiences,Gained Insight,False
+llama2-70b_single,30.232558139534884,46.01581721427306,258,Questions on Experiences,Gained Insight,False
+human_high,6.074766355140187,23.94269407795217,214,Questions on Perspectives,Gained Insight,
+human_low,2.272727272727273,15.075567228888168,44,Questions on Perspectives,Gained Insight,
+human_avg,4.17374681393373,22.69773474489024,258,Questions on Perspectives,Gained Insight,
+llama2-13b_all,4.3478260869565215,20.416485201172254,437,Questions on Perspectives,Gained Insight,False
+llama2-70b_all,4.418604651162791,20.57476282199457,430,Questions on Perspectives,Gained Insight,False
+gpt_35_all,2.191780821917808,14.661620615495012,365,Questions on Perspectives,Gained Insight,False
+gpt4_all,3.111111111111111,17.38112308634391,450,Questions on Perspectives,Gained Insight,False
+gpt4_full,1.5625,12.434382748876189,192,Questions on Perspectives,Gained Insight,False
+gpt_35_full,0.9345794392523364,9.667364890456636,107,Questions on Perspectives,Gained Insight,False
+llama2-13b_full,1.675977653631285,12.873020018783173,179,Questions on Perspectives,Gained Insight,False
+llama2-70b_full,4.069767441860465,19.816580391811616,172,Questions on Perspectives,Gained Insight,False
+gpt4_single,4.263565891472868,20.242698402061144,258,Questions on Perspectives,Gained Insight,False
+gpt_35_single,2.713178294573644,16.27831567040533,258,Questions on Perspectives,Gained Insight,False
+llama2-13b_single,6.2015503875969,24.16524817536184,258,Questions on Perspectives,Gained Insight,False
+llama2-70b_single,4.651162790697675,21.099966312987178,258,Questions on Perspectives,Gained Insight,False
+human_high,10.2803738317757,30.441445183106968,214,Questions on Emotions,Gained Insight,
+human_low,11.363636363636363,32.10382206405508,44,Questions on Emotions,Gained Insight,
+human_avg,10.822005097706032,30.6698362599494,258,Questions on Emotions,Gained Insight,
+llama2-13b_all,4.118993135011442,19.895703535371247,437,Questions on Emotions,Gained Insight,True
+llama2-70b_all,4.186046511627907,20.050351320191343,430,Questions on Emotions,Gained Insight,False
+gpt_35_all,1.917808219178082,13.73388508683918,365,Questions on Emotions,Gained Insight,True
+gpt4_all,0.6666666666666666,8.146760734654357,450,Questions on Emotions,Gained Insight,True
+gpt4_full,0.0,0.0,192,Questions on Emotions,Gained Insight,True
+gpt_35_full,0.0,0.0,107,Questions on Emotions,Gained Insight,True
+llama2-13b_full,0.0,0.0,179,Questions on Emotions,Gained Insight,True
+llama2-70b_full,2.3255813953488373,15.11549444029611,172,Questions on Emotions,Gained Insight,False
+gpt4_single,1.162790697674419,10.741237092759397,258,Questions on Emotions,Gained Insight,True
+gpt_35_single,2.713178294573644,16.27831567040533,258,Questions on Emotions,Gained Insight,True
+llama2-13b_single,6.976744186046512,25.52498283822152,258,Questions on Emotions,Gained Insight,False
+llama2-70b_single,5.426356589147287,22.697734744890123,258,Questions on Emotions,Gained Insight,False
+human_high,14.95327102803738,35.74489245567787,214,Problem-Solving,Gained Insight,
+human_low,40.909090909090914,49.73502728147659,44,Problem-Solving,Gained Insight,
+human_avg,27.931180968564146,39.604109718445166,258,Problem-Solving,Gained Insight,
+llama2-13b_all,25.85812356979405,43.83568159473063,437,Problem-Solving,Gained Insight,False
+llama2-70b_all,36.97674418604651,48.33039378831858,430,Problem-Solving,Gained Insight,False
+gpt_35_all,37.53424657534247,48.48758824750834,365,Problem-Solving,Gained Insight,False
+gpt4_all,41.11111111111112,49.25829482440151,450,Problem-Solving,Gained Insight,True
+gpt4_full,38.54166666666666,48.79660031644913,192,Problem-Solving,Gained Insight,False
+gpt_35_full,53.271028037383175,50.12768039103751,107,Problem-Solving,Gained Insight,True
+llama2-13b_full,33.5195530726257,47.33829254812812,179,Problem-Solving,Gained Insight,False
+llama2-70b_full,53.48837209302326,50.02379414798683,172,Problem-Solving,Gained Insight,True
+gpt4_single,43.02325581395349,49.60708891168949,258,Problem-Solving,Gained Insight,True
+gpt_35_single,31.00775193798449,46.34240624650864,258,Problem-Solving,Gained Insight,False
+llama2-13b_single,20.54263565891473,40.4798086290554,258,Problem-Solving,Gained Insight,False
+llama2-70b_single,25.968992248062012,43.93166571707679,258,Problem-Solving,Gained Insight,False
+human_high,11.682242990654206,32.19617045750135,214,Planning,Gained Insight,
+human_low,11.363636363636363,32.10382206405508,44,Planning,Gained Insight,
+human_avg,11.522939677145285,32.11823239861659,258,Planning,Gained Insight,
+llama2-13b_all,25.85812356979405,43.835681594730886,437,Planning,Gained Insight,True
+llama2-70b_all,38.372093023255815,48.68576911675683,430,Planning,Gained Insight,True
+gpt_35_all,28.21917808219178,45.06839935255882,365,Planning,Gained Insight,True
+gpt4_all,34.888888888888886,47.714920986327854,450,Planning,Gained Insight,True
+gpt4_full,50.0,50.13071917732282,192,Planning,Gained Insight,True
+gpt_35_full,47.66355140186916,50.18041862802312,107,Planning,Gained Insight,True
+llama2-13b_full,45.25139664804469,49.91361566684268,179,Planning,Gained Insight,True
+llama2-70b_full,71.51162790697674,45.26768832943805,172,Planning,Gained Insight,True
+gpt4_single,23.643410852713178,42.57176105921254,258,Planning,Gained Insight,True
+gpt_35_single,20.155038759689923,40.19378150645165,258,Planning,Gained Insight,False
+llama2-13b_single,12.4031007751938,33.025757988831806,258,Planning,Gained Insight,False
+llama2-70b_single,16.27906976744186,36.98921427486881,258,Planning,Gained Insight,False
+human_high,12.149532710280374,32.74680323094677,214,Normalizing,Gained Insight,
+human_low,25.0,43.80187953915666,44,Normalizing,Gained Insight,
+human_avg,18.574766355140188,35.117256862644034,258,Normalizing,Gained Insight,
+llama2-13b_all,21.73913043478261,41.29437454383944,437,Normalizing,Gained Insight,False
+llama2-70b_all,13.72093023255814,34.44689543621103,430,Normalizing,Gained Insight,False
+gpt_35_all,30.136986301369863,45.948285272294015,365,Normalizing,Gained Insight,False
+gpt4_all,32.44444444444444,46.868795473231614,450,Normalizing,Gained Insight,True
+gpt4_full,55.72916666666666,49.80054020326998,192,Normalizing,Gained Insight,True
+gpt_35_full,49.53271028037384,50.23310149673529,107,Normalizing,Gained Insight,True
+llama2-13b_full,32.402234636871505,46.93211922770015,179,Normalizing,Gained Insight,True
+llama2-70b_full,20.930232558139537,40.79983680097919,172,Normalizing,Gained Insight,False
+gpt4_single,15.116279069767442,35.89037088534437,258,Normalizing,Gained Insight,False
+gpt_35_single,22.093023255813957,41.56799162564076,258,Normalizing,Gained Insight,False
+llama2-13b_single,14.34108527131783,35.1172568626438,258,Normalizing,Gained Insight,False
+llama2-70b_single,8.914728682170542,28.551007262176487,258,Normalizing,Gained Insight,False
+human_high,0.9345794392523364,9.644644847553764,214,Psychoeducation,Gained Insight,
+human_low,15.909090909090908,36.99894290244681,44,Psychoeducation,Gained Insight,
+human_avg,8.421835174171623,18.384190585594528,258,Psychoeducation,Gained Insight,
+llama2-13b_all,9.153318077803204,28.86963452230283,437,Psychoeducation,Gained Insight,False
+llama2-70b_all,9.534883720930232,29.40382674713812,430,Psychoeducation,Gained Insight,False
+gpt_35_all,12.602739726027398,33.233580481106074,365,Psychoeducation,Gained Insight,False
+gpt4_all,8.666666666666666,28.16590998926525,450,Psychoeducation,Gained Insight,False
+gpt4_full,11.979166666666666,32.55666961583592,192,Psychoeducation,Gained Insight,False
+gpt_35_full,6.542056074766355,24.843009105039037,107,Psychoeducation,Gained Insight,False
+llama2-13b_full,16.75977653631285,37.45564195894293,179,Psychoeducation,Gained Insight,False
+llama2-70b_full,18.6046511627907,39.02803882463844,172,Psychoeducation,Gained Insight,True
+gpt4_single,6.2015503875969,24.16524817536184,258,Psychoeducation,Gained Insight,False
+gpt_35_single,15.116279069767442,35.89037088534437,258,Psychoeducation,Gained Insight,False
+llama2-13b_single,3.875968992248062,19.339686320006155,258,Psychoeducation,Gained Insight,False
+llama2-70b_single,3.488372093023256,18.38419058559466,258,Psychoeducation,Gained Insight,False
+human_high,26.454033771106943,44.150250210621394,533,Reflections on Needs,Sharing experiences,
+human_low,18.58407079646018,38.98415077694269,226,Reflections on Needs,Sharing experiences,
+human_avg,22.51905228378356,42.80369845000661,759,Reflections on Needs,Sharing experiences,
+llama2-13b_all,26.96245733788396,44.40174021672504,879,Reflections on Needs,Sharing experiences,False
+llama2-70b_all,25.95744680851064,43.863452294004254,940,Reflections on Needs,Sharing experiences,False
+gpt_35_all,28.028503562945367,44.94053827974637,842,Reflections on Needs,Sharing experiences,False
+gpt4_all,33.29479768786127,47.15407451894226,865,Reflections on Needs,Sharing experiences,True
+gpt4_full,57.54716981132076,49.66192986209893,106,Reflections on Needs,Sharing experiences,True
+gpt_35_full,38.55421686746988,48.96819600318202,83,Reflections on Needs,Sharing experiences,False
+llama2-13b_full,35.833333333333336,48.15212820821523,120,Reflections on Needs,Sharing experiences,False
+llama2-70b_full,25.96685082872928,43.96689418092333,181,Reflections on Needs,Sharing experiences,False
+gpt4_single,29.90777338603425,45.81558686932608,759,Reflections on Needs,Sharing experiences,False
+gpt_35_single,26.877470355731223,44.36148589778598,759,Reflections on Needs,Sharing experiences,False
+llama2-13b_single,25.55994729907773,43.6485275919714,759,Reflections on Needs,Sharing experiences,False
+llama2-70b_single,25.95520421607378,43.867792456024375,759,Reflections on Needs,Sharing experiences,False
+human_high,19.88742964352721,39.95282099675725,533,Reflections on Emotions,Sharing experiences,
+human_low,7.079646017699115,25.705387794233072,226,Reflections on Emotions,Sharing experiences,
+human_avg,13.483537830613162,36.75311392130632,759,Reflections on Emotions,Sharing experiences,
+llama2-13b_all,19.34015927189989,39.5189941987432,879,Reflections on Emotions,Sharing experiences,False
+llama2-70b_all,20.0,40.0212935868156,940,Reflections on Emotions,Sharing experiences,True
+gpt_35_all,23.871733966745843,42.65529990877162,842,Reflections on Emotions,Sharing experiences,True
+gpt4_all,17.91907514450867,38.37338389738692,865,Reflections on Emotions,Sharing experiences,False
+gpt4_full,23.58490566037736,42.65450747677499,106,Reflections on Emotions,Sharing experiences,False
+gpt_35_full,24.09638554216868,43.02682500142444,83,Reflections on Emotions,Sharing experiences,False
+llama2-13b_full,29.166666666666668,45.64354645876387,120,Reflections on Emotions,Sharing experiences,True
+llama2-70b_full,23.756906077348063,42.67742728027724,181,Reflections on Emotions,Sharing experiences,False
+gpt4_single,17.127799736495387,37.7000137074637,759,Reflections on Emotions,Sharing experiences,False
+gpt_35_single,23.847167325428195,42.64299661340859,759,Reflections on Emotions,Sharing experiences,True
+llama2-13b_single,17.786561264822133,38.26517363208409,759,Reflections on Emotions,Sharing experiences,False
+llama2-70b_single,19.104084321475625,39.33803803692389,759,Reflections on Emotions,Sharing experiences,False
+human_high,7.129455909943714,25.755796031469952,533,Reflections on Values,Sharing experiences,
+human_low,2.2123893805309733,14.74129578349868,226,Reflections on Values,Sharing experiences,
+human_avg,4.670922645237344,23.13317526268525,759,Reflections on Values,Sharing experiences,
+llama2-13b_all,5.119453924914676,22.051979837094716,879,Reflections on Values,Sharing experiences,False
+llama2-70b_all,4.468085106382978,20.671219118466464,940,Reflections on Values,Sharing experiences,False
+gpt_35_all,5.463182897862233,22.739525915163984,842,Reflections on Values,Sharing experiences,False
+gpt4_all,5.664739884393064,23.1301364307214,865,Reflections on Values,Sharing experiences,False
+gpt4_full,8.49056603773585,28.00654524962704,106,Reflections on Values,Sharing experiences,False
+gpt_35_full,6.024096385542169,23.937915584427603,83,Reflections on Values,Sharing experiences,False
+llama2-13b_full,1.6666666666666667,12.855586584927854,120,Reflections on Values,Sharing experiences,False
+llama2-70b_full,3.867403314917127,19.33517486625491,181,Reflections on Values,Sharing experiences,False
+gpt4_single,5.270092226613966,22.358308800509132,759,Reflections on Values,Sharing experiences,False
+gpt_35_single,5.4018445322793145,22.62031558869148,759,Reflections on Values,Sharing experiences,False
+llama2-13b_single,5.665349143610013,23.133175262685796,759,Reflections on Values,Sharing experiences,False
+llama2-70b_single,4.61133069828722,20.98687686945112,759,Reflections on Values,Sharing experiences,False
+human_high,17.823639774859288,38.30711427424944,533,Reflections on Consequences,Sharing experiences,
+human_low,18.58407079646018,38.98415077694269,226,Reflections on Consequences,Sharing experiences,
+human_avg,18.20385528565973,38.48575272648809,759,Reflections on Consequences,Sharing experiences,
+llama2-13b_all,16.26848691695108,36.92880296882435,879,Reflections on Consequences,Sharing experiences,False
+llama2-70b_all,14.148936170212766,34.87111747274312,940,Reflections on Consequences,Sharing experiences,False
+gpt_35_all,10.807600950118765,31.066091783241795,842,Reflections on Consequences,Sharing experiences,True
+gpt4_all,19.421965317919074,39.5827629002605,865,Reflections on Consequences,Sharing experiences,False
+gpt4_full,20.75471698113208,40.74772826171499,106,Reflections on Consequences,Sharing experiences,False
+gpt_35_full,14.457831325301203,35.38130318051739,83,Reflections on Consequences,Sharing experiences,False
+llama2-13b_full,16.666666666666668,37.42405942825597,120,Reflections on Consequences,Sharing experiences,False
+llama2-70b_full,7.734806629834254,26.7883961941891,181,Reflections on Consequences,Sharing experiences,True
+gpt4_single,19.235836627140976,39.4412957655704,759,Reflections on Consequences,Sharing experiences,False
+gpt_35_single,10.408432147562582,30.557126440463808,759,Reflections on Consequences,Sharing experiences,True
+llama2-13b_single,16.205533596837945,36.87445606698508,759,Reflections on Consequences,Sharing experiences,False
+llama2-70b_single,15.678524374176549,36.38379339890314,759,Reflections on Consequences,Sharing experiences,False
+human_high,8.067542213883677,27.259183748732635,533,Reflections on Conflicts,Sharing experiences,
+human_low,3.5398230088495577,18.519436227670685,226,Reflections on Conflicts,Sharing experiences,
+human_avg,5.803682611366617,25.05222053410099,759,Reflections on Conflicts,Sharing experiences,
+llama2-13b_all,5.460750853242321,22.73418737315185,879,Reflections on Conflicts,Sharing experiences,False
+llama2-70b_all,7.23404255319149,25.91886477578634,940,Reflections on Conflicts,Sharing experiences,False
+gpt_35_all,3.4441805225653206,18.246947735068648,842,Reflections on Conflicts,Sharing experiences,False
+gpt4_all,6.358381502890174,24.415123712485148,865,Reflections on Conflicts,Sharing experiences,False
+gpt4_full,8.49056603773585,28.00654524962704,106,Reflections on Conflicts,Sharing experiences,False
+gpt_35_full,6.024096385542169,23.937915584427603,83,Reflections on Conflicts,Sharing experiences,False
+llama2-13b_full,8.333333333333334,27.754425291281027,120,Reflections on Conflicts,Sharing experiences,False
+llama2-70b_full,6.629834254143646,24.949304031155705,181,Reflections on Conflicts,Sharing experiences,False
+gpt4_single,6.0606060606060606,23.87636393543465,759,Reflections on Conflicts,Sharing experiences,False
+gpt_35_single,3.1620553359683794,17.51030858060368,759,Reflections on Conflicts,Sharing experiences,False
+llama2-13b_single,5.006587615283268,21.82247174746172,759,Reflections on Conflicts,Sharing experiences,False
+llama2-70b_single,7.378129117259552,26.15870168926088,759,Reflections on Conflicts,Sharing experiences,False
+human_high,12.00750469043152,32.53546272225444,533,Reflections on Strengths,Sharing experiences,
+human_low,4.867256637168142,21.566024482877488,226,Reflections on Strengths,Sharing experiences,
+human_avg,8.437380663799832,29.860920536401277,759,Reflections on Strengths,Sharing experiences,
+llama2-13b_all,12.514220705346986,33.106846635165326,879,Reflections on Strengths,Sharing experiences,False
+llama2-70b_all,13.51063829787234,34.20191397743596,940,Reflections on Strengths,Sharing experiences,False
+gpt_35_all,18.28978622327791,38.68125319307581,842,Reflections on Strengths,Sharing experiences,True
+gpt4_all,21.502890173410403,41.108008180215165,865,Reflections on Strengths,Sharing experiences,True
+gpt4_full,34.905660377358494,47.89363777250125,106,Reflections on Strengths,Sharing experiences,True
+gpt_35_full,27.710843373493976,45.02913152466318,83,Reflections on Strengths,Sharing experiences,True
+llama2-13b_full,20.83333333333333,40.78192327620712,120,Reflections on Strengths,Sharing experiences,True
+llama2-70b_full,20.994475138121548,40.83986304764951,181,Reflections on Strengths,Sharing experiences,True
+gpt4_single,19.631093544137023,39.74683582421896,759,Reflections on Strengths,Sharing experiences,True
+gpt_35_single,17.25955204216074,37.81464075904655,759,Reflections on Strengths,Sharing experiences,True
+llama2-13b_single,11.198945981554678,31.556143357263235,759,Reflections on Strengths,Sharing experiences,False
+llama2-70b_single,11.725955204216074,32.19414634600299,759,Reflections on Strengths,Sharing experiences,False
+human_high,45.21575984990619,49.81733904934328,533,Questions on Experiences,Sharing experiences,
+human_low,44.24778761061947,49.77826941743445,226,Questions on Experiences,Sharing experiences,
+human_avg,44.73177373026283,49.774836211797485,759,Questions on Experiences,Sharing experiences,
+llama2-13b_all,36.40500568828214,48.14367045134087,879,Questions on Experiences,Sharing experiences,True
+llama2-70b_all,35.1063829787234,47.75569441428444,940,Questions on Experiences,Sharing experiences,True
+gpt_35_all,25.29691211401425,43.49717789814448,842,Questions on Experiences,Sharing experiences,True
+gpt4_all,23.46820809248555,42.40451386320982,865,Questions on Experiences,Sharing experiences,True
+gpt4_full,40.56603773584906,49.33520309222352,106,Questions on Experiences,Sharing experiences,False
+gpt_35_full,44.57831325301205,50.00734591938148,83,Questions on Experiences,Sharing experiences,False
+llama2-13b_full,56.66666666666666,49.76133515281191,120,Questions on Experiences,Sharing experiences,False
+llama2-70b_full,40.331491712707184,49.19237240429074,181,Questions on Experiences,Sharing experiences,False
+gpt4_single,21.080368906455863,40.8148224649485,759,Questions on Experiences,Sharing experiences,True
+gpt_35_single,23.18840579710145,42.23136515823264,759,Questions on Experiences,Sharing experiences,True
+llama2-13b_single,33.201581027667984,47.124717451233,759,Questions on Experiences,Sharing experiences,True
+llama2-70b_single,33.86034255599473,47.35468253714596,759,Questions on Experiences,Sharing experiences,True
+human_high,3.189493433395872,17.588544052472265,533,Questions on Perspectives,Sharing experiences,
+human_low,0.8849557522123894,9.386280496213038,226,Questions on Perspectives,Sharing experiences,
+human_avg,2.037224592804131,15.632814321024618,759,Questions on Perspectives,Sharing experiences,
+llama2-13b_all,4.550625711035267,20.853035404921982,879,Questions on Perspectives,Sharing experiences,False
+llama2-70b_all,5.0,21.806096791837707,940,Questions on Perspectives,Sharing experiences,False
+gpt_35_all,1.4251781472684086,11.859752491501036,842,Questions on Perspectives,Sharing experiences,False
+gpt4_all,4.393063583815029,20.505937441359748,865,Questions on Perspectives,Sharing experiences,False
+gpt4_full,4.716981132075472,21.300907522352915,106,Questions on Perspectives,Sharing experiences,False
+gpt_35_full,1.2048192771084338,10.976425998969036,83,Questions on Perspectives,Sharing experiences,False
+llama2-13b_full,5.0,21.885876647707203,120,Questions on Perspectives,Sharing experiences,False
+llama2-70b_full,7.18232044198895,25.89111638996992,181,Questions on Perspectives,Sharing experiences,True
+gpt4_single,4.3478260869565215,20.406559486350908,759,Questions on Perspectives,Sharing experiences,False
+gpt_35_single,1.4492753623188406,11.958911466282222,759,Questions on Perspectives,Sharing experiences,False
+llama2-13b_single,4.479578392621871,20.69917189098174,759,Questions on Perspectives,Sharing experiences,False
+llama2-70b_single,4.479578392621871,20.69917189098174,759,Questions on Perspectives,Sharing experiences,False
+human_high,9.193245778611631,28.920200542311743,533,Questions on Emotions,Sharing experiences,
+human_low,8.4070796460177,27.81099292426685,226,Questions on Emotions,Sharing experiences,
+human_avg,8.800162712314666,28.578405178733554,759,Questions on Emotions,Sharing experiences,
+llama2-13b_all,5.802047781569966,23.391526324172958,879,Questions on Emotions,Sharing experiences,False
+llama2-70b_all,3.9361702127659575,19.45575166517715,940,Questions on Emotions,Sharing experiences,True
+gpt_35_all,1.7814726840855106,13.23562154692776,842,Questions on Emotions,Sharing experiences,True
+gpt4_all,2.1965317919075145,14.665506172340034,865,Questions on Emotions,Sharing experiences,True
+gpt4_full,2.830188679245283,16.662173698080736,106,Questions on Emotions,Sharing experiences,False
+gpt_35_full,7.228915662650603,26.054036390250698,83,Questions on Emotions,Sharing experiences,False
+llama2-13b_full,4.166666666666667,20.06641633241397,120,Questions on Emotions,Sharing experiences,False
+llama2-70b_full,3.314917127071823,17.952259177508196,181,Questions on Emotions,Sharing experiences,False
+gpt4_single,2.1080368906455864,14.37470389622611,759,Questions on Emotions,Sharing experiences,True
+gpt_35_single,1.1857707509881423,10.831694327791018,759,Questions on Emotions,Sharing experiences,True
+llama2-13b_single,6.0606060606060606,23.87636393543465,759,Questions on Emotions,Sharing experiences,False
+llama2-70b_single,4.084321475625823,19.80573873505121,759,Questions on Emotions,Sharing experiences,True
+human_high,9.380863039399625,29.183619001946443,533,Problem-Solving,Sharing experiences,
+human_low,18.58407079646018,38.98415077694269,226,Problem-Solving,Sharing experiences,
+human_avg,13.9824669179299,32.6588839749094,759,Problem-Solving,Sharing experiences,
+llama2-13b_all,15.130830489192263,35.85531470810788,879,Problem-Solving,Sharing experiences,False
+llama2-70b_all,21.170212765957448,40.87322624925614,940,Problem-Solving,Sharing experiences,True
+gpt_35_all,23.871733966745843,42.65529990877157,842,Problem-Solving,Sharing experiences,True
+gpt4_all,29.595375722543352,45.67343803081035,865,Problem-Solving,Sharing experiences,True
+gpt4_full,41.50943396226416,49.50791091821666,106,Problem-Solving,Sharing experiences,True
+gpt_35_full,39.75903614457831,49.23750067002163,83,Problem-Solving,Sharing experiences,True
+llama2-13b_full,35.833333333333336,48.15212820821523,120,Problem-Solving,Sharing experiences,True
+llama2-70b_full,46.408839779005525,50.00920725539531,181,Problem-Solving,Sharing experiences,True
+gpt4_single,27.93148880105402,44.89584012994049,759,Problem-Solving,Sharing experiences,True
+gpt_35_single,22.134387351778656,41.54252506178936,759,Problem-Solving,Sharing experiences,True
+llama2-13b_single,11.857707509881424,32.35033801887464,759,Problem-Solving,Sharing experiences,False
+llama2-70b_single,15.151515151515152,35.87867226766809,759,Problem-Solving,Sharing experiences,False
+human_high,6.941838649155723,25.44030300357655,533,Planning,Sharing experiences,
+human_low,7.079646017699115,25.705387794233072,226,Planning,Sharing experiences,
+human_avg,7.01074233342742,25.50261969415369,759,Planning,Sharing experiences,
+llama2-13b_all,8.304891922639364,27.61132548336716,879,Planning,Sharing experiences,False
+llama2-70b_all,13.085106382978724,33.74169233119618,940,Planning,Sharing experiences,True
+gpt_35_all,10.451306413301662,30.610679156692047,842,Planning,Sharing experiences,False
+gpt4_all,12.947976878612716,33.592441881672265,865,Planning,Sharing experiences,True
+gpt4_full,19.81132075471698,40.047142031681375,106,Planning,Sharing experiences,True
+gpt_35_full,16.867469879518072,37.674074376231054,83,Planning,Sharing experiences,False
+llama2-13b_full,23.33333333333333,42.472597855881766,120,Planning,Sharing experiences,True
+llama2-70b_full,34.25414364640884,47.58759813883968,181,Planning,Sharing experiences,True
+gpt4_single,11.989459815546772,32.505244465804175,759,Planning,Sharing experiences,False
+gpt_35_single,9.749670619235836,29.682853925687223,759,Planning,Sharing experiences,False
+llama2-13b_single,5.928853754940712,23.631967027120943,759,Planning,Sharing experiences,False
+llama2-70b_single,8.036890645586297,27.20427385380516,759,Planning,Sharing experiences,False
+human_high,13.883677298311444,34.61009425075311,533,Normalizing,Sharing experiences,
+human_low,14.15929203539823,34.94060137412431,226,Normalizing,Sharing experiences,
+human_avg,14.021484666854835,34.685985044611435,759,Normalizing,Sharing experiences,
+llama2-13b_all,11.035267349260524,31.350722085760527,879,Normalizing,Sharing experiences,False
+llama2-70b_all,8.829787234042554,28.387865193838067,940,Normalizing,Sharing experiences,False
+gpt_35_all,18.171021377672208,38.58346994887338,842,Normalizing,Sharing experiences,False
+gpt4_all,16.184971098265898,36.85259684528432,865,Normalizing,Sharing experiences,False
+gpt4_full,24.52830188679245,43.229885506423344,106,Normalizing,Sharing experiences,False
+gpt_35_full,43.373493975903614,49.86022189969836,83,Normalizing,Sharing experiences,True
+llama2-13b_full,15.0,35.85685828003181,120,Normalizing,Sharing experiences,False
+llama2-70b_full,12.707182320441987,33.39772785543147,181,Normalizing,Sharing experiences,False
+gpt4_single,15.019762845849804,35.75006141584319,759,Normalizing,Sharing experiences,False
+gpt_35_single,15.41501976284585,36.13307763220661,759,Normalizing,Sharing experiences,False
+llama2-13b_single,10.408432147562582,30.557126440463808,759,Normalizing,Sharing experiences,False
+llama2-70b_single,7.905138339920948,26.999686550522828,759,Normalizing,Sharing experiences,True
+human_high,2.626641651031896,16.0076756546886,533,Psychoeducation,Sharing experiences,
+human_low,8.849557522123893,28.46447180888655,226,Psychoeducation,Sharing experiences,
+human_avg,5.738099586577895,20.69917189098137,759,Psychoeducation,Sharing experiences,
+llama2-13b_all,1.1376564277588168,10.611290220827051,879,Psychoeducation,Sharing experiences,True
+llama2-70b_all,2.765957446808511,16.408279639327276,940,Psychoeducation,Sharing experiences,False
+gpt_35_all,5.7007125890736345,23.199403913486183,842,Psychoeducation,Sharing experiences,False
+gpt4_all,3.121387283236994,17.399588062361882,865,Psychoeducation,Sharing experiences,False
+gpt4_full,3.7735849056603774,19.146195951337383,106,Psychoeducation,Sharing experiences,False
+gpt_35_full,4.819277108433735,21.547533715651834,83,Psychoeducation,Sharing experiences,False
+llama2-13b_full,5.833333333333333,23.5355384180488,120,Psychoeducation,Sharing experiences,False
+llama2-70b_full,11.049723756906078,31.43781803339799,181,Psychoeducation,Sharing experiences,False
+gpt4_single,3.0303030303030303,17.153286223699748,759,Psychoeducation,Sharing experiences,False
+gpt_35_single,5.797101449275362,23.384272775162444,759,Psychoeducation,Sharing experiences,False
+llama2-13b_single,0.3952569169960474,6.278646532143312,759,Psychoeducation,Sharing experiences,True
+llama2-70b_single,0.7905138339920948,8.861711814269404,759,Psychoeducation,Sharing experiences,True
